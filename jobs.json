@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-5852695004",
+    "dedupeKey": "greenhouse:5852695004",
     "company": "Hightouch",
     "companyDomain": "hightouch.com",
     "role": "Solutions Engineer, Enterprise (Pre-Sales) - German speaking ",
@@ -19,7 +19,7 @@
     "posted": "2026-06-30T10:34:23.000Z"
   },
   {
-    "slug": "greenhouse-8570023002",
+    "dedupeKey": "greenhouse:8570023002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect - Data Engineering & Warehousing",
@@ -58,7 +58,7 @@
     "posted": "2026-06-30T00:52:54.000Z"
   },
   {
-    "slug": "greenhouse-8029540",
+    "dedupeKey": "greenhouse:8029540",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "SMB Solutions Engineer, Client Management",
@@ -84,7 +84,7 @@
     "posted": "2026-06-29T23:45:34.000Z"
   },
   {
-    "slug": "greenhouse-8455750002",
+    "dedupeKey": "greenhouse:8455750002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -105,7 +105,7 @@
     "posted": "2026-06-29T21:14:48.000Z"
   },
   {
-    "slug": "greenhouse-8027353",
+    "dedupeKey": "greenhouse:8027353",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "Solutions Engineer",
@@ -132,7 +132,7 @@
     "posted": "2026-06-29T16:50:56.000Z"
   },
   {
-    "slug": "greenhouse-7913978",
+    "dedupeKey": "greenhouse:7913978",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "Solutions Engineer",
@@ -157,7 +157,7 @@
     "posted": "2026-06-29T16:50:40.000Z"
   },
   {
-    "slug": "greenhouse-4686914006",
+    "dedupeKey": "greenhouse:4686914006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Account Solution Architect",
@@ -189,7 +189,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4686665006",
+    "dedupeKey": "greenhouse:4686665006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Account Solution Architect",
@@ -221,7 +221,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4686692006",
+    "dedupeKey": "greenhouse:4686692006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Account Solution Architect",
@@ -252,7 +252,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4568555006",
+    "dedupeKey": "greenhouse:4568555006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer  - Security",
@@ -279,7 +279,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4692585006",
+    "dedupeKey": "greenhouse:4692585006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Solution Specialist, AI Runtime Services",
@@ -310,7 +310,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4686701006",
+    "dedupeKey": "greenhouse:4686701006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Account Solution Architect",
@@ -340,7 +340,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4686696006",
+    "dedupeKey": "greenhouse:4686696006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Account Solution Architect",
@@ -370,7 +370,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4687145006",
+    "dedupeKey": "greenhouse:4687145006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Account Solution Architect - Financial Services",
@@ -410,7 +410,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-8516238002",
+    "dedupeKey": "greenhouse:8516238002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakewatch",
@@ -451,7 +451,7 @@
     "posted": "2026-06-29T15:43:49.000Z"
   },
   {
-    "slug": "greenhouse-8516236002",
+    "dedupeKey": "greenhouse:8516236002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakewatch",
@@ -492,7 +492,7 @@
     "posted": "2026-06-29T15:43:48.000Z"
   },
   {
-    "slug": "greenhouse-8493140002",
+    "dedupeKey": "greenhouse:8493140002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakewatch",
@@ -533,7 +533,7 @@
     "posted": "2026-06-29T15:43:48.000Z"
   },
   {
-    "slug": "greenhouse-8516235002",
+    "dedupeKey": "greenhouse:8516235002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakewatch",
@@ -574,7 +574,7 @@
     "posted": "2026-06-29T15:43:48.000Z"
   },
   {
-    "slug": "greenhouse-8516237002",
+    "dedupeKey": "greenhouse:8516237002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakewatch",
@@ -615,7 +615,7 @@
     "posted": "2026-06-29T15:43:48.000Z"
   },
   {
-    "slug": "greenhouse-7845325002",
+    "dedupeKey": "greenhouse:7845325002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior ML & AI Technical Solutions Engineer ",
@@ -654,7 +654,7 @@
     "posted": "2026-06-29T12:40:18.000Z"
   },
   {
-    "slug": "greenhouse-8611599002",
+    "dedupeKey": "greenhouse:8611599002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -691,7 +691,7 @@
     "posted": "2026-06-29T10:43:05.000Z"
   },
   {
-    "slug": "greenhouse-8608900002",
+    "dedupeKey": "greenhouse:8608900002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -728,7 +728,7 @@
     "posted": "2026-06-29T10:43:05.000Z"
   },
   {
-    "slug": "greenhouse-8611600002",
+    "dedupeKey": "greenhouse:8611600002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -765,7 +765,7 @@
     "posted": "2026-06-29T10:43:05.000Z"
   },
   {
-    "slug": "greenhouse-8609866002",
+    "dedupeKey": "greenhouse:8609866002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -786,7 +786,7 @@
     "posted": "2026-06-29T09:54:39.000Z"
   },
   {
-    "slug": "greenhouse-8437076002",
+    "dedupeKey": "greenhouse:8437076002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Lead Solutions Architect (Pre-sales) – Public Sector",
@@ -811,7 +811,7 @@
     "posted": "2026-06-29T09:18:28.000Z"
   },
   {
-    "slug": "greenhouse-8516180002",
+    "dedupeKey": "greenhouse:8516180002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -835,7 +835,7 @@
     "posted": "2026-06-29T07:59:56.000Z"
   },
   {
-    "slug": "greenhouse-8438763002",
+    "dedupeKey": "greenhouse:8438763002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Indonesia)",
@@ -857,7 +857,7 @@
     "posted": "2026-06-29T07:59:49.000Z"
   },
   {
-    "slug": "greenhouse-8559344002",
+    "dedupeKey": "greenhouse:8559344002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect (Utilities/Energy)",
@@ -888,7 +888,7 @@
     "posted": "2026-06-29T06:02:50.000Z"
   },
   {
-    "slug": "greenhouse-8605160002",
+    "dedupeKey": "greenhouse:8605160002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -917,7 +917,7 @@
     "posted": "2026-06-29T05:45:13.000Z"
   },
   {
-    "slug": "greenhouse-8522046002",
+    "dedupeKey": "greenhouse:8522046002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Oil, Gas, and Energy",
@@ -943,7 +943,7 @@
     "posted": "2026-06-29T05:02:30.000Z"
   },
   {
-    "slug": "workday-jr0285088",
+    "dedupeKey": "workday:JR0285088",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "AI Software Solutions Engineer",
@@ -970,7 +970,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr327559",
+    "dedupeKey": "workday:JR327559",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Commercial Graduate Solution Engineering Path  - Spanish Market",
@@ -992,7 +992,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346015",
+    "dedupeKey": "workday:JR346015",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Lead Solution Engineer",
@@ -1015,7 +1015,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr347994",
+    "dedupeKey": "workday:JR347994",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Lead Solution Engineer",
@@ -1042,7 +1042,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-586947",
+    "dedupeKey": "workday:586947",
     "company": "Philips Health Technology Innovation Paris",
     "companyDomain": "careers.philips.com",
     "role": "Solution Application Engineer (CV, Image Processing)",
@@ -1067,7 +1067,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8406090002",
+    "dedupeKey": "greenhouse:8406090002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Pre-sales Senior Technical Solutions Engineer (Data and AI) x2",
@@ -1098,7 +1098,7 @@
     "posted": "2026-06-28T21:42:07.000Z"
   },
   {
-    "slug": "greenhouse-7870845",
+    "dedupeKey": "greenhouse:7870845",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Senior Sales Engineer",
@@ -1119,7 +1119,7 @@
     "posted": "2026-06-28T18:02:23.000Z"
   },
   {
-    "slug": "greenhouse-7953656",
+    "dedupeKey": "greenhouse:7953656",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Senior Customer Engineer, Web3 (Pre-sales)",
@@ -1140,7 +1140,7 @@
     "posted": "2026-06-28T09:04:41.000Z"
   },
   {
-    "slug": "greenhouse-8567991002",
+    "dedupeKey": "greenhouse:8567991002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakebase",
@@ -1171,7 +1171,7 @@
     "posted": "2026-06-28T07:22:38.000Z"
   },
   {
-    "slug": "greenhouse-7747140003",
+    "dedupeKey": "greenhouse:7747140003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Customer Solutions Architect",
@@ -1199,7 +1199,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7661581003",
+    "dedupeKey": "greenhouse:7661581003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Sales Engineer, Commercial",
@@ -1233,7 +1233,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7659466003",
+    "dedupeKey": "greenhouse:7659466003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Sales Engineer, Commercial",
@@ -1263,7 +1263,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7742243003",
+    "dedupeKey": "greenhouse:7742243003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Sales Engineer, Enterprise",
@@ -1293,7 +1293,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7785674003",
+    "dedupeKey": "greenhouse:7785674003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Sales Engineer, Enterprise - German Speaking ",
@@ -1320,7 +1320,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7785672003",
+    "dedupeKey": "greenhouse:7785672003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Sales Engineer, Enterprise - German Speaking ",
@@ -1347,7 +1347,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-8024593",
+    "dedupeKey": "greenhouse:8024593",
     "company": "Netskope",
     "companyDomain": "netskope.com",
     "role": "Sr. Solutions Engineer ",
@@ -1385,7 +1385,7 @@
     "posted": "2026-06-27T00:49:04.000Z"
   },
   {
-    "slug": "greenhouse-8585599002",
+    "dedupeKey": "greenhouse:8585599002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect (Retail/CPG)",
@@ -1415,7 +1415,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8600818002",
+    "dedupeKey": "greenhouse:8600818002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Specialist Solutions Engineer (AI/ML)",
@@ -1446,7 +1446,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8607718002",
+    "dedupeKey": "greenhouse:8607718002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -1470,7 +1470,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8589624002",
+    "dedupeKey": "greenhouse:8589624002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -1493,7 +1493,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8595160002",
+    "dedupeKey": "greenhouse:8595160002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -1515,7 +1515,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8609868002",
+    "dedupeKey": "greenhouse:8609868002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Benelux Hunter Pre-sales)",
@@ -1546,7 +1546,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8595123002",
+    "dedupeKey": "greenhouse:8595123002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Casino / iGaming ",
@@ -1571,7 +1571,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8585164002",
+    "dedupeKey": "greenhouse:8585164002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect - AI/ML",
@@ -1603,7 +1603,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8593505002",
+    "dedupeKey": "greenhouse:8593505002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect - AI/ML",
@@ -1639,7 +1639,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8585601002",
+    "dedupeKey": "greenhouse:8585601002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
@@ -1681,7 +1681,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8593411002",
+    "dedupeKey": "greenhouse:8593411002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect",
@@ -1704,7 +1704,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8585089002",
+    "dedupeKey": "greenhouse:8585089002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Agencies ",
@@ -1729,7 +1729,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8583085002",
+    "dedupeKey": "greenhouse:8583085002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Manufacturing",
@@ -1755,7 +1755,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8608609002",
+    "dedupeKey": "greenhouse:8608609002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -1780,7 +1780,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8593371002",
+    "dedupeKey": "greenhouse:8593371002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -1806,7 +1806,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8584983002",
+    "dedupeKey": "greenhouse:8584983002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer - Public Sector (Defense Industrial Base)",
@@ -1840,7 +1840,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8584948002",
+    "dedupeKey": "greenhouse:8584948002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer - Public Sector (Federal Civilian)",
@@ -1878,7 +1878,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8575046002",
+    "dedupeKey": "greenhouse:8575046002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1903,7 +1903,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8587319002",
+    "dedupeKey": "greenhouse:8587319002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakebase",
@@ -1935,7 +1935,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568011002",
+    "dedupeKey": "greenhouse:8568011002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakebase",
@@ -1967,7 +1967,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8587318002",
+    "dedupeKey": "greenhouse:8587318002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakebase",
@@ -1999,7 +1999,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8587320002",
+    "dedupeKey": "greenhouse:8587320002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakebase",
@@ -2029,7 +2029,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8576249002",
+    "dedupeKey": "greenhouse:8576249002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -2052,7 +2052,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568015002",
+    "dedupeKey": "greenhouse:8568015002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Lakebase",
@@ -2088,7 +2088,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568017002",
+    "dedupeKey": "greenhouse:8568017002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Lakebase)",
@@ -2124,7 +2124,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8570078002",
+    "dedupeKey": "greenhouse:8570078002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Financial Services (Wealth and Asset Management)",
@@ -2161,7 +2161,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568025002",
+    "dedupeKey": "greenhouse:8568025002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect (Lakebase)",
@@ -2195,7 +2195,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8556371002",
+    "dedupeKey": "greenhouse:8556371002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Data & AI Platform Architect (Professional Services)",
@@ -2225,7 +2225,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8545248002",
+    "dedupeKey": "greenhouse:8545248002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Delivery Solutions Architects",
@@ -2254,7 +2254,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8567320002",
+    "dedupeKey": "greenhouse:8567320002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Delivery Solutions Architects - Digital Native Business",
@@ -2287,7 +2287,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8557075002",
+    "dedupeKey": "greenhouse:8557075002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering - Financial Services Industry",
@@ -2314,7 +2314,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8554470002",
+    "dedupeKey": "greenhouse:8554470002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Digital Natives",
@@ -2345,7 +2345,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8517068002",
+    "dedupeKey": "greenhouse:8517068002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect (Enterprise Accounts)",
@@ -2374,7 +2374,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8585873002",
+    "dedupeKey": "greenhouse:8585873002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Engineer - Qatar & S.Africa Fly-in",
@@ -2411,7 +2411,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8544165002",
+    "dedupeKey": "greenhouse:8544165002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Engineer - Qatar & S.Africa Fly-in",
@@ -2448,7 +2448,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8559342002",
+    "dedupeKey": "greenhouse:8559342002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -2470,7 +2470,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8531153002",
+    "dedupeKey": "greenhouse:8531153002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -2504,7 +2504,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8520024002",
+    "dedupeKey": "greenhouse:8520024002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Financial Services (Insurance)",
@@ -2539,7 +2539,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8531019002",
+    "dedupeKey": "greenhouse:8531019002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect  Greenfield(New Logo) France",
@@ -2563,7 +2563,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8560496002",
+    "dedupeKey": "greenhouse:8560496002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect Greenfield (New Logo) Mid Market France",
@@ -2586,7 +2586,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8522044002",
+    "dedupeKey": "greenhouse:8522044002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Public Sector (SLED) ",
@@ -2618,7 +2618,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8555871002",
+    "dedupeKey": "greenhouse:8555871002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager -  BFSI, Field Engineering",
@@ -2648,7 +2648,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8563183002",
+    "dedupeKey": "greenhouse:8563183002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer - AI Natives Business",
@@ -2683,7 +2683,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8501390002",
+    "dedupeKey": "greenhouse:8501390002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AI Solutions Architect (Pre-sales) - Strategic Accounts",
@@ -2710,7 +2710,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8480642002",
+    "dedupeKey": "greenhouse:8480642002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Industry Lead Solutions Architect - Financial Services",
@@ -2742,7 +2742,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8480815002",
+    "dedupeKey": "greenhouse:8480815002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Lead Solutions Architect",
@@ -2764,7 +2764,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8568420002",
+    "dedupeKey": "greenhouse:8568420002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect",
@@ -2795,7 +2795,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8509683002",
+    "dedupeKey": "greenhouse:8509683002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect",
@@ -2826,7 +2826,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8480817002",
+    "dedupeKey": "greenhouse:8480817002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect (Utilities/Energy)",
@@ -2856,7 +2856,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8506063002",
+    "dedupeKey": "greenhouse:8506063002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Specialist Solutions Architect - AI & ML Engineer",
@@ -2886,7 +2886,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8512037002",
+    "dedupeKey": "greenhouse:8512037002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Polish Speaker",
@@ -2911,7 +2911,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8441894002",
+    "dedupeKey": "greenhouse:8441894002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -2940,7 +2940,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8455752002",
+    "dedupeKey": "greenhouse:8455752002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Pre-sales Solutions Architect - Healthcare",
@@ -2974,7 +2974,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8570587002",
+    "dedupeKey": "greenhouse:8570587002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakebase",
@@ -3016,7 +3016,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8570586002",
+    "dedupeKey": "greenhouse:8570586002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Architect - Lakebase",
@@ -3058,7 +3058,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8452396002",
+    "dedupeKey": "greenhouse:8452396002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Retail/CPG)",
@@ -3094,7 +3094,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8439172002",
+    "dedupeKey": "greenhouse:8439172002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. ISV & Partner Solutions Architect",
@@ -3122,7 +3122,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8476064002",
+    "dedupeKey": "greenhouse:8476064002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect",
@@ -3152,7 +3152,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8476403002",
+    "dedupeKey": "greenhouse:8476403002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Global Telecommunications ",
@@ -3178,7 +3178,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8450209002",
+    "dedupeKey": "greenhouse:8450209002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -3205,7 +3205,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8444598002",
+    "dedupeKey": "greenhouse:8444598002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr Technical Solutions (Backline)",
@@ -3230,7 +3230,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8437000002",
+    "dedupeKey": "greenhouse:8437000002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "ソリューションアーキテクト (プリセールス)",
@@ -3264,7 +3264,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8438779002",
+    "dedupeKey": "greenhouse:8438779002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering",
@@ -3292,7 +3292,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8438777002",
+    "dedupeKey": "greenhouse:8438777002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -3323,7 +3323,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8434467002",
+    "dedupeKey": "greenhouse:8434467002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Digital Native Business, Strategic",
@@ -3358,7 +3358,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8434341002",
+    "dedupeKey": "greenhouse:8434341002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - High Tech and MFG",
@@ -3385,7 +3385,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8437026002",
+    "dedupeKey": "greenhouse:8437026002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Pre-sales) - Digital Native",
@@ -3415,7 +3415,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8437028002",
+    "dedupeKey": "greenhouse:8437028002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Pre-sales) - Kansai Region",
@@ -3453,7 +3453,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8437024002",
+    "dedupeKey": "greenhouse:8437024002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Pre-sales) - Retail/CPG",
@@ -3488,7 +3488,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8417656002",
+    "dedupeKey": "greenhouse:8417656002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect",
@@ -3513,7 +3513,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8537033002",
+    "dedupeKey": "greenhouse:8537033002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect",
@@ -3539,7 +3539,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8417705002",
+    "dedupeKey": "greenhouse:8417705002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Public Sector (Hunter) ",
@@ -3573,7 +3573,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8415130002",
+    "dedupeKey": "greenhouse:8415130002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -3607,7 +3607,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8437014002",
+    "dedupeKey": "greenhouse:8437014002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -3631,7 +3631,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8417647002",
+    "dedupeKey": "greenhouse:8417647002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer - Hunter Team",
@@ -3662,7 +3662,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8417654002",
+    "dedupeKey": "greenhouse:8417654002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer - MFG",
@@ -3688,7 +3688,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8415025002",
+    "dedupeKey": "greenhouse:8415025002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer - Public Sector (DoW - 4th Estate)",
@@ -3726,7 +3726,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8421122002",
+    "dedupeKey": "greenhouse:8421122002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Technical Solutions Engineer, Platform",
@@ -3751,7 +3751,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8360067002",
+    "dedupeKey": "greenhouse:8360067002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering",
@@ -3781,7 +3781,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8347880002",
+    "dedupeKey": "greenhouse:8347880002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": " Partner Solutions Architect",
@@ -3814,7 +3814,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8351765002",
+    "dedupeKey": "greenhouse:8351765002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Technical Solutions Engineer (Platform)",
@@ -3842,7 +3842,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8368209002",
+    "dedupeKey": "greenhouse:8368209002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -3875,7 +3875,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8407197002",
+    "dedupeKey": "greenhouse:8407197002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect Opportunities - Lakebase (Solutions Architect, Sr. Solutions Architect, Lead Solutions Architect) ",
@@ -3906,7 +3906,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8382743002",
+    "dedupeKey": "greenhouse:8382743002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect",
@@ -3939,7 +3939,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8589834002",
+    "dedupeKey": "greenhouse:8589834002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect - Google Cloud Platform & Infrastructure",
@@ -3971,7 +3971,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8368205002",
+    "dedupeKey": "greenhouse:8368205002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer",
@@ -3993,7 +3993,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8239195002",
+    "dedupeKey": "greenhouse:8239195002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Engineer",
@@ -4017,7 +4017,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8337429002",
+    "dedupeKey": "greenhouse:8337429002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences)",
@@ -4057,7 +4057,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8198484002",
+    "dedupeKey": "greenhouse:8198484002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Public Sector (Federal Civilian)",
@@ -4093,7 +4093,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8025494002",
+    "dedupeKey": "greenhouse:8025494002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Solutions Engineer",
@@ -4116,7 +4116,7 @@
     "posted": "2026-06-27T00:17:29.000Z"
   },
   {
-    "slug": "greenhouse-8073294002",
+    "dedupeKey": "greenhouse:8073294002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Partner Solutions Architect",
@@ -4145,7 +4145,7 @@
     "posted": "2026-06-27T00:17:29.000Z"
   },
   {
-    "slug": "greenhouse-7849147002",
+    "dedupeKey": "greenhouse:7849147002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Pre-sales Solutions Architect - Energy",
@@ -4180,7 +4180,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7896350002",
+    "dedupeKey": "greenhouse:7896350002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -4203,7 +4203,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-6356702002",
+    "dedupeKey": "greenhouse:6356702002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect ",
@@ -4226,7 +4226,7 @@
     "posted": "2026-06-27T00:17:26.000Z"
   },
   {
-    "slug": "greenhouse-6328361002",
+    "dedupeKey": "greenhouse:6328361002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Emerging Enterprise",
@@ -4261,7 +4261,7 @@
     "posted": "2026-06-27T00:17:26.000Z"
   },
   {
-    "slug": "greenhouse-6328388002",
+    "dedupeKey": "greenhouse:6328388002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Emerging Enterprise (Startups) ",
@@ -4296,7 +4296,7 @@
     "posted": "2026-06-27T00:17:26.000Z"
   },
   {
-    "slug": "greenhouse-5898477002",
+    "dedupeKey": "greenhouse:5898477002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -4333,7 +4333,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-6117719002",
+    "dedupeKey": "greenhouse:6117719002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Digital Native Business",
@@ -4365,7 +4365,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-8085877002",
+    "dedupeKey": "greenhouse:8085877002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
@@ -4390,7 +4390,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-8231231002",
+    "dedupeKey": "greenhouse:8231231002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
@@ -4415,7 +4415,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-6545547002",
+    "dedupeKey": "greenhouse:6545547002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Manufacturing",
@@ -4441,7 +4441,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-6049142002",
+    "dedupeKey": "greenhouse:6049142002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect, Retail ",
@@ -4470,7 +4470,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-6649865002",
+    "dedupeKey": "greenhouse:6649865002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect, Retail - CPG",
@@ -4500,7 +4500,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-6456675002",
+    "dedupeKey": "greenhouse:6456675002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect, Retail",
@@ -4530,7 +4530,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-8221491002",
+    "dedupeKey": "greenhouse:8221491002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect, Retail ",
@@ -4560,7 +4560,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-7507778002",
+    "dedupeKey": "greenhouse:7507778002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Engineer, Retail - CPG",
@@ -4592,7 +4592,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-8589172002",
+    "dedupeKey": "greenhouse:8589172002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr Technical Solutions Engineering",
@@ -4630,7 +4630,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-5108253007",
+    "dedupeKey": "greenhouse:5108253007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Solutions Architect",
@@ -4673,7 +4673,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5171081007",
+    "dedupeKey": "greenhouse:5171081007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Principal Solutions Engineer, CorporateOS",
@@ -4708,7 +4708,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5144556007",
+    "dedupeKey": "greenhouse:5144556007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Principal Solutions Engineer, CorporateOS",
@@ -4727,7 +4727,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5107968007",
+    "dedupeKey": "greenhouse:5107968007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Solutions Architect",
@@ -4770,7 +4770,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5139431007",
+    "dedupeKey": "greenhouse:5139431007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Associate Director, Army Mission Operations",
@@ -4790,7 +4790,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5139129007",
+    "dedupeKey": "greenhouse:5139129007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mission Integration Engineer, Intelligence Systems",
@@ -4808,7 +4808,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5148583007",
+    "dedupeKey": "greenhouse:5148583007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Oracle  Fusion Solution Architect",
@@ -4829,7 +4829,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5144552007",
+    "dedupeKey": "greenhouse:5144552007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Principal Solutions Engineer, CorporateOS",
@@ -4848,7 +4848,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5108246007",
+    "dedupeKey": "greenhouse:5108246007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Solutions Architect",
@@ -4891,7 +4891,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-7311768",
+    "dedupeKey": "greenhouse:7311768",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Sales Engineer II, SE Desk",
@@ -4912,7 +4912,7 @@
     "posted": "2026-06-26T23:01:49.000Z"
   },
   {
-    "slug": "greenhouse-7848363",
+    "dedupeKey": "greenhouse:7848363",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Sales Engineer II, SE Desk",
@@ -4933,7 +4933,7 @@
     "posted": "2026-06-26T23:00:38.000Z"
   },
   {
-    "slug": "greenhouse-7848351",
+    "dedupeKey": "greenhouse:7848351",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Sales Engineer II, SE Desk",
@@ -4955,7 +4955,7 @@
     "posted": "2026-06-26T22:59:29.000Z"
   },
   {
-    "slug": "greenhouse-7311741",
+    "dedupeKey": "greenhouse:7311741",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Sales Engineer II, SE Desk",
@@ -4977,7 +4977,7 @@
     "posted": "2026-06-26T22:57:22.000Z"
   },
   {
-    "slug": "greenhouse-7311761",
+    "dedupeKey": "greenhouse:7311761",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Sales Engineer II, SE Desk",
@@ -4998,7 +4998,7 @@
     "posted": "2026-06-26T22:56:30.000Z"
   },
   {
-    "slug": "ashby-cc972f2d-6c1b-4987-9a81-bdacfac98c00",
+    "dedupeKey": "ashby:cc972f2d-6c1b-4987-9a81-bdacfac98c00",
     "company": "Illumio",
     "companyDomain": "illumio.com",
     "role": "Sr. Sales Engineer",
@@ -5020,7 +5020,7 @@
     "posted": "2026-06-26T22:54:20.929Z"
   },
   {
-    "slug": "ashby-13b79b2e-a27e-4dbe-835a-b789e2b601ed",
+    "dedupeKey": "ashby:13b79b2e-a27e-4dbe-835a-b789e2b601ed",
     "company": "Merge API",
     "companyDomain": "merge.dev",
     "role": "Solutions Architect",
@@ -5039,7 +5039,7 @@
     "posted": "2026-06-26T21:51:23.943Z"
   },
   {
-    "slug": "greenhouse-7975723",
+    "dedupeKey": "greenhouse:7975723",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Solutions Architect, AI",
@@ -5064,7 +5064,7 @@
     "posted": "2026-06-26T21:05:45.000Z"
   },
   {
-    "slug": "greenhouse-7963508",
+    "dedupeKey": "greenhouse:7963508",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Global Head of Specialist Solutions Architecture, Revenue ",
@@ -5088,7 +5088,7 @@
     "posted": "2026-06-26T21:05:44.000Z"
   },
   {
-    "slug": "greenhouse-7964568",
+    "dedupeKey": "greenhouse:7964568",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Partner Solutions Architect, Technology Partnerships",
@@ -5114,7 +5114,7 @@
     "posted": "2026-06-26T21:05:44.000Z"
   },
   {
-    "slug": "greenhouse-7915144",
+    "dedupeKey": "greenhouse:7915144",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Head of Enterprise Solutions Architecture Platforms",
@@ -5138,7 +5138,7 @@
     "posted": "2026-06-26T21:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7927330",
+    "dedupeKey": "greenhouse:7927330",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Partner Solutions Architect - Billing",
@@ -5167,7 +5167,7 @@
     "posted": "2026-06-26T21:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7919325",
+    "dedupeKey": "greenhouse:7919325",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Partner Solutions Architect, (German fluency)",
@@ -5189,7 +5189,7 @@
     "posted": "2026-06-26T21:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7927324",
+    "dedupeKey": "greenhouse:7927324",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Partner Solutions Architect - LatAm",
@@ -5214,7 +5214,7 @@
     "posted": "2026-06-26T21:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7779497",
+    "dedupeKey": "greenhouse:7779497",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Enterprise Solutions Architecture Manager, AMER",
@@ -5239,7 +5239,7 @@
     "posted": "2026-06-26T21:05:36.000Z"
   },
   {
-    "slug": "greenhouse-7607761",
+    "dedupeKey": "greenhouse:7607761",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Partner Solutions Architect - AWS",
@@ -5266,7 +5266,7 @@
     "posted": "2026-06-26T21:05:32.000Z"
   },
   {
-    "slug": "greenhouse-7523947",
+    "dedupeKey": "greenhouse:7523947",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Global Head of Specialist Solutions Architecture, Billing",
@@ -5292,7 +5292,7 @@
     "posted": "2026-06-26T21:05:30.000Z"
   },
   {
-    "slug": "greenhouse-7380371",
+    "dedupeKey": "greenhouse:7380371",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Specialist Solutions Architect, Money Management",
@@ -5319,7 +5319,7 @@
     "posted": "2026-06-26T21:05:28.000Z"
   },
   {
-    "slug": "greenhouse-7377591",
+    "dedupeKey": "greenhouse:7377591",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Specialist Solutions Architect, Payments",
@@ -5355,7 +5355,7 @@
     "posted": "2026-06-26T21:05:28.000Z"
   },
   {
-    "slug": "greenhouse-7377101",
+    "dedupeKey": "greenhouse:7377101",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Technical Solutions Engineer",
@@ -5388,7 +5388,7 @@
     "posted": "2026-06-26T21:05:28.000Z"
   },
   {
-    "slug": "greenhouse-7365914",
+    "dedupeKey": "greenhouse:7365914",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Specialist Solutions Architect, Radar (Fraud/Risk)",
@@ -5425,7 +5425,7 @@
     "posted": "2026-06-26T21:05:27.000Z"
   },
   {
-    "slug": "greenhouse-7120766",
+    "dedupeKey": "greenhouse:7120766",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Specialist Solutions Architect, Crypto & Stablecoins",
@@ -5454,7 +5454,7 @@
     "posted": "2026-06-26T21:05:24.000Z"
   },
   {
-    "slug": "greenhouse-8610402002",
+    "dedupeKey": "greenhouse:8610402002",
     "company": "GitLab",
     "companyDomain": "about.gitlab.com",
     "role": "Solutions Architect, LATAM",
@@ -5473,7 +5473,7 @@
     "posted": "2026-06-26T20:03:32.000Z"
   },
   {
-    "slug": "ashby-754a3db2-eae8-4b86-bb3d-4b2d4d60c674",
+    "dedupeKey": "ashby:754a3db2-eae8-4b86-bb3d-4b2d4d60c674",
     "company": "UiPath",
     "companyDomain": "uipath.com",
     "role": "Sales Engineer, Retail and Manufacturing",
@@ -5491,7 +5491,7 @@
     "posted": "2026-06-26T19:57:31.061Z"
   },
   {
-    "slug": "greenhouse-7997938",
+    "dedupeKey": "greenhouse:7997938",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Technical Architect",
@@ -5526,7 +5526,7 @@
     "posted": "2026-06-26T19:36:25.000Z"
   },
   {
-    "slug": "greenhouse-5174078007",
+    "dedupeKey": "greenhouse:5174078007",
     "company": "Tenstorrent",
     "companyDomain": "tenstorrent.com",
     "role": "Field Application Engineer - AI Software & Hardware ",
@@ -5553,7 +5553,7 @@
     "posted": "2026-06-26T18:56:52.000Z"
   },
   {
-    "slug": "greenhouse-7829145",
+    "dedupeKey": "greenhouse:7829145",
     "company": "Netskope",
     "companyDomain": "netskope.com",
     "role": "Sr. Solutions Engineer - Mid-Market - Southwest",
@@ -5587,7 +5587,7 @@
     "posted": "2026-06-26T18:45:03.000Z"
   },
   {
-    "slug": "greenhouse-7980408",
+    "dedupeKey": "greenhouse:7980408",
     "company": "Netskope",
     "companyDomain": "netskope.com",
     "role": "Channel Solutions Engineer - South",
@@ -5604,7 +5604,7 @@
     "posted": "2026-06-26T18:39:23.000Z"
   },
   {
-    "slug": "greenhouse-7904555",
+    "dedupeKey": "greenhouse:7904555",
     "company": "Netskope",
     "companyDomain": "netskope.com",
     "role": "Channel Solutions Engineer",
@@ -5630,7 +5630,7 @@
     "posted": "2026-06-26T18:19:19.000Z"
   },
   {
-    "slug": "greenhouse-7528276",
+    "dedupeKey": "greenhouse:7528276",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Senior Solutions Engineering Manager, Majors - West",
@@ -5649,7 +5649,7 @@
     "posted": "2026-06-26T18:17:20.000Z"
   },
   {
-    "slug": "greenhouse-8014399",
+    "dedupeKey": "greenhouse:8014399",
     "company": "Netskope",
     "companyDomain": "netskope.com",
     "role": "Sr. Solutions Engineer",
@@ -5680,7 +5680,7 @@
     "posted": "2026-06-26T17:50:02.000Z"
   },
   {
-    "slug": "greenhouse-7940112",
+    "dedupeKey": "greenhouse:7940112",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer, Okta (Mid Atlantic)",
@@ -5704,7 +5704,7 @@
     "posted": "2026-06-26T17:36:34.000Z"
   },
   {
-    "slug": "greenhouse-4689669006",
+    "dedupeKey": "greenhouse:4689669006",
     "company": "Couchbase",
     "companyDomain": "couchbase.com",
     "role": "Sr Solution Architect",
@@ -5725,7 +5725,7 @@
     "posted": "2026-06-26T17:07:14.000Z"
   },
   {
-    "slug": "greenhouse-5174455007",
+    "dedupeKey": "greenhouse:5174455007",
     "company": "Zscaler",
     "companyDomain": "zscaler.com",
     "role": "Principal Specialist Sales Engineer - Zero Trust Branch, DACH",
@@ -5748,7 +5748,7 @@
     "posted": "2026-06-26T16:35:01.000Z"
   },
   {
-    "slug": "greenhouse-4692459006",
+    "dedupeKey": "greenhouse:4692459006",
     "company": "Gong",
     "companyDomain": "gong.io",
     "role": "Lead Enterprise Revenue Architect",
@@ -5772,7 +5772,7 @@
     "posted": "2026-06-26T16:03:45.000Z"
   },
   {
-    "slug": "ashby-933b8f78-7f4d-4d88-aecf-c022b0753d35",
+    "dedupeKey": "ashby:933b8f78-7f4d-4d88-aecf-c022b0753d35",
     "company": "Tennr",
     "companyDomain": "tennr.com",
     "role": "Associate Solutions Architect",
@@ -5788,7 +5788,7 @@
     "posted": "2026-06-26T14:32:20.934Z"
   },
   {
-    "slug": "ashby-2c782ff9-2785-4246-98bb-d99e8567c68f",
+    "dedupeKey": "ashby:2c782ff9-2785-4246-98bb-d99e8567c68f",
     "company": "Kong",
     "companyDomain": "konghq.com",
     "role": "Senior Solutions Engineer",
@@ -5809,7 +5809,7 @@
     "posted": "2026-06-26T14:24:35.210Z"
   },
   {
-    "slug": "greenhouse-7488013",
+    "dedupeKey": "greenhouse:7488013",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Technical Architect, Okta",
@@ -5837,7 +5837,7 @@
     "posted": "2026-06-26T13:15:51.000Z"
   },
   {
-    "slug": "greenhouse-5283616008",
+    "dedupeKey": "greenhouse:5283616008",
     "company": "Anthropic",
     "companyDomain": "anthropic.com",
     "role": "Applied AI Architect, Partnerships",
@@ -5855,7 +5855,7 @@
     "posted": "2026-06-26T11:50:47.000Z"
   },
   {
-    "slug": "lever-64da4e57-c9b0-42ac-832a-1291bcd2c48c",
+    "dedupeKey": "lever:64da4e57-c9b0-42ac-832a-1291bcd2c48c",
     "company": "CI&T",
     "companyDomain": "ciandt.com",
     "role": "[Job- 30146]  Architect Manager, Brazil",
@@ -5891,7 +5891,7 @@
     "posted": "2026-06-26T10:37:25.295Z"
   },
   {
-    "slug": "ashby-71eae7f2-88c4-423f-bae7-d253f20d6977",
+    "dedupeKey": "ashby:71eae7f2-88c4-423f-bae7-d253f20d6977",
     "company": "Astronomer",
     "companyDomain": "astronomer.io",
     "role": "Senior Solutions Architect - Airflow (East Coast)",
@@ -5917,7 +5917,7 @@
     "posted": "2026-06-26T05:52:12.926Z"
   },
   {
-    "slug": "greenhouse-8546570002",
+    "dedupeKey": "greenhouse:8546570002",
     "company": "Miro",
     "companyDomain": "miro.com",
     "role": "Solutions Architect",
@@ -5941,7 +5941,7 @@
     "posted": "2026-06-26T05:49:54.000Z"
   },
   {
-    "slug": "ashby-df924d15-e52e-4ddb-a3de-127d53f4c76a",
+    "dedupeKey": "ashby:df924d15-e52e-4ddb-a3de-127d53f4c76a",
     "company": "Lakera",
     "companyDomain": "lakera.ai",
     "role": "Solutions Engineer (Amsterdam)",
@@ -5970,7 +5970,7 @@
     "posted": "2026-06-26T05:47:46.607Z"
   },
   {
-    "slug": "greenhouse-8024889",
+    "dedupeKey": "greenhouse:8024889",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Senior Partner Solutions Engineer, SAARC (Based in Bangalore)",
@@ -5995,7 +5995,7 @@
     "posted": "2026-06-26T04:19:40.000Z"
   },
   {
-    "slug": "greenhouse-4678577006",
+    "dedupeKey": "greenhouse:4678577006",
     "company": "Neo4j",
     "companyDomain": "neo4j.com",
     "role": "Senior Solutions Engineer - Australia & New Zealand (ANZ)",
@@ -6019,7 +6019,7 @@
     "posted": "2026-06-26T03:15:37.000Z"
   },
   {
-    "slug": "lever-6a92fd9c-d6ea-4061-9eab-f8ba3886b94c",
+    "dedupeKey": "lever:6a92fd9c-d6ea-4061-9eab-f8ba3886b94c",
     "company": "Netomi",
     "companyDomain": "netomi.com",
     "role": "Agentic Senior Solution Engineer",
@@ -6045,7 +6045,7 @@
     "posted": "2026-06-26T01:39:02.619Z"
   },
   {
-    "slug": "lever-e4e663b8-375f-4e3b-b30e-8062560226b2",
+    "dedupeKey": "lever:e4e663b8-375f-4e3b-b30e-8062560226b2",
     "company": "Netomi",
     "companyDomain": "netomi.com",
     "role": "Solutions Architect",
@@ -6070,7 +6070,7 @@
     "posted": "2026-06-26T01:21:25.308Z"
   },
   {
-    "slug": "greenhouse-4709583005",
+    "dedupeKey": "greenhouse:4709583005",
     "company": "Virtru",
     "companyDomain": "virtru.com",
     "role": "Forward Deployed Engineer - Security Clearance Required",
@@ -6094,7 +6094,7 @@
     "posted": "2026-06-26T00:56:14.000Z"
   },
   {
-    "slug": "lever-087715c9-82b4-4c37-a22e-6f8086001751",
+    "dedupeKey": "lever:087715c9-82b4-4c37-a22e-6f8086001751",
     "company": "Mistral AI",
     "companyDomain": "mistral.ai",
     "role": "AI Deployment Strategist",
@@ -6118,7 +6118,7 @@
     "posted": "2026-06-26T00:40:51.737Z"
   },
   {
-    "slug": "workday-jr1277",
+    "dedupeKey": "workday:JR1277",
     "company": "Automation Anywhere",
     "companyDomain": "automationanywhere.com",
     "role": "SVP, Global Solutions Engineering",
@@ -6146,7 +6146,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r29132",
+    "dedupeKey": "workday:R29132",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "AI Security Solutions Consultant (Remote, SGP)",
@@ -6171,7 +6171,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r0026276",
+    "dedupeKey": "workday:R0026276",
     "company": "Roquette",
     "companyDomain": "roquette.com",
     "role": "Lead Customer Solutions Scientist",
@@ -6196,7 +6196,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020233",
+    "dedupeKey": "workday:JR2020233",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior AI Solutions Architect - Industrial Engineering",
@@ -6234,7 +6234,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020114",
+    "dedupeKey": "workday:JR2020114",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Field Application Engineer, AI Factory",
@@ -6263,7 +6263,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8573756002",
+    "dedupeKey": "greenhouse:8573756002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Lab Architect",
@@ -6291,7 +6291,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "ashby-bfddc52e-4e94-41a7-9a0d-96dfe6f089f7",
+    "dedupeKey": "ashby:bfddc52e-4e94-41a7-9a0d-96dfe6f089f7",
     "company": "Airwallex",
     "companyDomain": "airwallex.com",
     "role": "Solutions Engineer - Spend/ERP",
@@ -6313,7 +6313,7 @@
     "posted": "2026-06-25T23:49:13.898Z"
   },
   {
-    "slug": "greenhouse-8028079",
+    "dedupeKey": "greenhouse:8028079",
     "company": "Cambridge Mobile Telematics",
     "companyDomain": "cmtelematics.com",
     "role": "Principal Solutions Architect",
@@ -6335,7 +6335,7 @@
     "posted": "2026-06-25T22:29:13.000Z"
   },
   {
-    "slug": "greenhouse-7785931003",
+    "dedupeKey": "greenhouse:7785931003",
     "company": "LaunchDarkly",
     "companyDomain": "launchdarkly.com",
     "role": "Senior Solutions Engineer",
@@ -6361,7 +6361,7 @@
     "posted": "2026-06-25T22:05:09.000Z"
   },
   {
-    "slug": "greenhouse-7907756",
+    "dedupeKey": "greenhouse:7907756",
     "company": "Planet",
     "companyDomain": "planet.com",
     "role": "Senior Deployment Strategist, Professional Services",
@@ -6387,7 +6387,7 @@
     "posted": "2026-06-25T21:37:17.000Z"
   },
   {
-    "slug": "greenhouse-8500155002",
+    "dedupeKey": "greenhouse:8500155002",
     "company": "Alloy",
     "companyDomain": "alloy.com",
     "role": "Solutions Engineer Associate",
@@ -6404,7 +6404,7 @@
     "posted": "2026-06-25T21:01:56.000Z"
   },
   {
-    "slug": "greenhouse-7436682",
+    "dedupeKey": "greenhouse:7436682",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Sr. Sales Engineer - Southwest, Healthcare",
@@ -6426,7 +6426,7 @@
     "posted": "2026-06-25T20:34:23.000Z"
   },
   {
-    "slug": "greenhouse-8011367",
+    "dedupeKey": "greenhouse:8011367",
     "company": "Bugcrowd",
     "companyDomain": "bugcrowd.com",
     "role": "Technical Solutions Lead ",
@@ -6443,7 +6443,7 @@
     "posted": "2026-06-25T20:13:54.000Z"
   },
   {
-    "slug": "ashby-29b679a8-9990-48c1-b91e-001c566ced27",
+    "dedupeKey": "ashby:29b679a8-9990-48c1-b91e-001c566ced27",
     "company": "Ramp",
     "companyDomain": "ramp.com",
     "role": "Solutions Consultant | Enterprise ",
@@ -6466,7 +6466,7 @@
     "posted": "2026-06-25T19:57:44.435Z"
   },
   {
-    "slug": "ashby-53df5444-8801-4d3c-a28b-5c3ea0438f52",
+    "dedupeKey": "ashby:53df5444-8801-4d3c-a28b-5c3ea0438f52",
     "company": "Apollo GraphQL",
     "companyDomain": "apollographql.com",
     "role": "Staff Solutions Architect ",
@@ -6483,7 +6483,7 @@
     "posted": "2026-06-25T19:52:21.156Z"
   },
   {
-    "slug": "greenhouse-8026812",
+    "dedupeKey": "greenhouse:8026812",
     "company": "Iterable",
     "companyDomain": "iterable.com",
     "role": "Solutions Consultant",
@@ -6509,7 +6509,7 @@
     "posted": "2026-06-25T19:40:41.000Z"
   },
   {
-    "slug": "greenhouse-8022544",
+    "dedupeKey": "greenhouse:8022544",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Sr. Sales Engineer",
@@ -6530,7 +6530,7 @@
     "posted": "2026-06-25T18:03:07.000Z"
   },
   {
-    "slug": "greenhouse-7962991",
+    "dedupeKey": "greenhouse:7962991",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Sr. Sales Engineer, Healthcare ",
@@ -6547,7 +6547,7 @@
     "posted": "2026-06-25T18:03:06.000Z"
   },
   {
-    "slug": "greenhouse-7826311",
+    "dedupeKey": "greenhouse:7826311",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Sr. Sales Engineer - OH, Strategic",
@@ -6568,7 +6568,7 @@
     "posted": "2026-06-25T18:03:06.000Z"
   },
   {
-    "slug": "greenhouse-7908722",
+    "dedupeKey": "greenhouse:7908722",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Sr. Sales Engineer - TOLA Enterprise",
@@ -6586,7 +6586,7 @@
     "posted": "2026-06-25T18:03:06.000Z"
   },
   {
-    "slug": "greenhouse-7799183",
+    "dedupeKey": "greenhouse:7799183",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Strategic Sales Engineer, Bay Area",
@@ -6606,7 +6606,7 @@
     "posted": "2026-06-25T18:03:05.000Z"
   },
   {
-    "slug": "ashby-e9b5cf0f-a116-466c-a761-03eba6b9d73b",
+    "dedupeKey": "ashby:e9b5cf0f-a116-466c-a761-03eba6b9d73b",
     "company": "Blitzy",
     "companyDomain": "blitzy.com",
     "role": "Field CTO",
@@ -6629,7 +6629,7 @@
     "posted": "2026-06-25T17:14:36.139Z"
   },
   {
-    "slug": "greenhouse-7826916",
+    "dedupeKey": "greenhouse:7826916",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Solutions Engineer Manager, Associate Programs",
@@ -6648,7 +6648,7 @@
     "posted": "2026-06-25T16:47:56.000Z"
   },
   {
-    "slug": "ashby-0f4dae19-9c49-4e45-acb7-365ca0099370",
+    "dedupeKey": "ashby:0f4dae19-9c49-4e45-acb7-365ca0099370",
     "company": "Socket",
     "companyDomain": "socket.dev",
     "role": "Sales Engineer, APAC",
@@ -6671,7 +6671,7 @@
     "posted": "2026-06-25T16:09:21.362Z"
   },
   {
-    "slug": "greenhouse-8018980",
+    "dedupeKey": "greenhouse:8018980",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Field Solutions Engineer ",
@@ -6723,7 +6723,7 @@
     "posted": "2026-06-25T15:24:33.000Z"
   },
   {
-    "slug": "ashby-2b45d696-e0e7-4ea4-8c9a-344f77bd518f",
+    "dedupeKey": "ashby:2b45d696-e0e7-4ea4-8c9a-344f77bd518f",
     "company": "DualEntry",
     "companyDomain": "dualentry.com",
     "role": "Solution Consultant Lead (Remote UK)",
@@ -6749,7 +6749,7 @@
     "posted": "2026-06-25T14:39:48.119Z"
   },
   {
-    "slug": "greenhouse-4678575006",
+    "dedupeKey": "greenhouse:4678575006",
     "company": "Neo4j",
     "companyDomain": "neo4j.com",
     "role": "Senior Solutions Engineer (Korean, English)",
@@ -6773,7 +6773,7 @@
     "posted": "2026-06-25T13:42:08.000Z"
   },
   {
-    "slug": "ashby-1dae05ad-4a50-4124-96c7-76d56aa27f74",
+    "dedupeKey": "ashby:1dae05ad-4a50-4124-96c7-76d56aa27f74",
     "company": "1Password",
     "companyDomain": "1password.com",
     "role": "Sales Engineer, Channel",
@@ -6799,7 +6799,7 @@
     "posted": "2026-06-25T13:41:26.440Z"
   },
   {
-    "slug": "ashby-7c0fa868-20c5-4727-9f22-a5ab4bfbc08b",
+    "dedupeKey": "ashby:7c0fa868-20c5-4727-9f22-a5ab4bfbc08b",
     "company": "Snowflake",
     "companyDomain": "snowflake.com",
     "role": "AI/ML Flex Solution Engineer",
@@ -6821,7 +6821,7 @@
     "posted": "2026-06-25T13:39:10.494Z"
   },
   {
-    "slug": "ashby-0c4739ee-dfb0-4d01-be48-b6a18b6f95ce",
+    "dedupeKey": "ashby:0c4739ee-dfb0-4d01-be48-b6a18b6f95ce",
     "company": "Vanta",
     "companyDomain": "vanta.com",
     "role": "GRC Pre-Sales Consultant / Solutions Engineer – French Market, EMEA",
@@ -6847,7 +6847,7 @@
     "posted": "2026-06-25T11:58:54.330Z"
   },
   {
-    "slug": "ashby-b3f9759a-87fa-4b1f-b11f-32b7d0829b2e",
+    "dedupeKey": "ashby:b3f9759a-87fa-4b1f-b11f-32b7d0829b2e",
     "company": "Vanta",
     "companyDomain": "vanta.com",
     "role": "GRC Pre-Sales Consultant / Solutions Engineer – French Market, EMEA",
@@ -6873,7 +6873,7 @@
     "posted": "2026-06-25T11:58:43.030Z"
   },
   {
-    "slug": "ashby-a627485d-7e2d-487c-8f5a-a1abd2b674a6",
+    "dedupeKey": "ashby:a627485d-7e2d-487c-8f5a-a1abd2b674a6",
     "company": "Vanta",
     "companyDomain": "vanta.com",
     "role": "GRC Pre-Sales Consultant / Solutions Engineer – DACH market, EMEA",
@@ -6902,7 +6902,7 @@
     "posted": "2026-06-25T11:09:32.816Z"
   },
   {
-    "slug": "ashby-569d8f97-4d2b-43f7-8f0e-8829d7477fb4",
+    "dedupeKey": "ashby:569d8f97-4d2b-43f7-8f0e-8829d7477fb4",
     "company": "Vanta",
     "companyDomain": "vanta.com",
     "role": "GRC Pre-Sales Consultant / Solutions Engineer – DACH market, EMEA",
@@ -6931,7 +6931,7 @@
     "posted": "2026-06-25T11:05:55.279Z"
   },
   {
-    "slug": "greenhouse-8015290",
+    "dedupeKey": "greenhouse:8015290",
     "company": "Netskope",
     "companyDomain": "netskope.com",
     "role": "Solutions Engineer",
@@ -6965,7 +6965,7 @@
     "posted": "2026-06-25T08:03:37.000Z"
   },
   {
-    "slug": "greenhouse-8607390002",
+    "dedupeKey": "greenhouse:8607390002",
     "company": "Anaplan",
     "companyDomain": "anaplan.com",
     "role": "Solution Consulting Manager",
@@ -6992,7 +6992,7 @@
     "posted": "2026-06-25T05:45:32.000Z"
   },
   {
-    "slug": "ashby-a6a1bdda-36d5-4f6e-91fc-1554798a2dfa",
+    "dedupeKey": "ashby:a6a1bdda-36d5-4f6e-91fc-1554798a2dfa",
     "company": "Vapi",
     "companyDomain": "vapi.ai",
     "role": "Agent Engineer - EMEA",
@@ -7010,7 +7010,7 @@
     "posted": "2026-06-25T04:36:55.728Z"
   },
   {
-    "slug": "greenhouse-7719174003",
+    "dedupeKey": "greenhouse:7719174003",
     "company": "Xendit",
     "companyDomain": "xendit.co",
     "role": "Solution Engineering",
@@ -7033,7 +7033,7 @@
     "posted": "2026-06-25T00:50:10.000Z"
   },
   {
-    "slug": "workday-r013014",
+    "dedupeKey": "workday:R013014",
     "company": "SailPoint",
     "companyDomain": "sailpoint.com",
     "role": "Advisory Solutions Consultant",
@@ -7057,7 +7057,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r013600",
+    "dedupeKey": "workday:R013600",
     "company": "SailPoint",
     "companyDomain": "sailpoint.com",
     "role": "Advisory Solutions Consultant",
@@ -7082,7 +7082,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r28538",
+    "dedupeKey": "workday:R28538",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "AI Security Solutions Consultant (Remote)",
@@ -7113,7 +7113,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r27342",
+    "dedupeKey": "workday:R27342",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Corporate Sales Engineer, East Africa (Remote, UAE)",
@@ -7138,7 +7138,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0279702",
+    "dedupeKey": "workday:JR0279702",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Senior Gen AI Software Solutions Engineer",
@@ -7166,7 +7166,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r19181",
+    "dedupeKey": "workday:R19181",
     "company": "Zoom",
     "companyDomain": "zoom.com",
     "role": "Forward Deployment Management - Agentic Search",
@@ -7193,7 +7193,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr348004",
+    "dedupeKey": "workday:JR348004",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Distinguished, Enterprise Architect",
@@ -7226,7 +7226,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr344881",
+    "dedupeKey": "workday:JR344881",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Principal, Account SE - IT/ITES",
@@ -7258,7 +7258,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r0026277",
+    "dedupeKey": "workday:R0026277",
     "company": "Roquette",
     "companyDomain": "roquette.com",
     "role": "Lead Customer Solutions Scientist (M/F) - Biopharma",
@@ -7281,7 +7281,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020101",
+    "dedupeKey": "workday:JR2020101",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Network Solution Engineer (Weekend Coverage)",
@@ -7310,7 +7310,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "ashby-90d0cc88-b81c-40d6-be4c-0984c118ecf7",
+    "dedupeKey": "ashby:90d0cc88-b81c-40d6-be4c-0984c118ecf7",
     "company": "ElevenLabs",
     "companyDomain": "elevenlabs.io",
     "role": "Enterprise Solutions Engineer - Chile",
@@ -7326,7 +7326,7 @@
     "posted": "2026-06-24T22:17:41.000Z"
   },
   {
-    "slug": "ashby-96b4017e-28db-4408-a904-5706fe2e2454",
+    "dedupeKey": "ashby:96b4017e-28db-4408-a904-5706fe2e2454",
     "company": "Overjet",
     "companyDomain": "overjet.com",
     "role": "Senior Solutions Engineer",
@@ -7347,7 +7347,7 @@
     "posted": "2026-06-24T22:06:34.686Z"
   },
   {
-    "slug": "ashby-a345000c-0308-4373-a9d8-e7cad5aa5ee9",
+    "dedupeKey": "ashby:a345000c-0308-4373-a9d8-e7cad5aa5ee9",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - SAP",
@@ -7372,7 +7372,7 @@
     "posted": "2026-06-24T21:42:24.903Z"
   },
   {
-    "slug": "ashby-461366e9-587e-42db-adfb-04b85181547d",
+    "dedupeKey": "ashby:461366e9-587e-42db-adfb-04b85181547d",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - SAP",
@@ -7400,7 +7400,7 @@
     "posted": "2026-06-24T21:39:44.415Z"
   },
   {
-    "slug": "greenhouse-7727835",
+    "dedupeKey": "greenhouse:7727835",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Solutions Engineer (MST Time Zone)",
@@ -7429,7 +7429,7 @@
     "posted": "2026-06-24T21:37:00.000Z"
   },
   {
-    "slug": "ashby-3318e15f-0fb7-4a1a-9a06-9cc6e13a0aec",
+    "dedupeKey": "ashby:3318e15f-0fb7-4a1a-9a06-9cc6e13a0aec",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - SAP",
@@ -7456,7 +7456,7 @@
     "posted": "2026-06-24T21:35:25.178Z"
   },
   {
-    "slug": "ashby-8f064b8b-e95c-4e63-9f49-1ca46b3a57d9",
+    "dedupeKey": "ashby:8f064b8b-e95c-4e63-9f49-1ca46b3a57d9",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - SAP",
@@ -7483,7 +7483,7 @@
     "posted": "2026-06-24T21:32:17.480Z"
   },
   {
-    "slug": "ashby-1d9f5eda-3440-4ceb-a518-26bc25ec4240",
+    "dedupeKey": "ashby:1d9f5eda-3440-4ceb-a518-26bc25ec4240",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - Oracle PeopleSoft",
@@ -7502,7 +7502,7 @@
     "posted": "2026-06-24T21:25:18.543Z"
   },
   {
-    "slug": "ashby-3bc2c9ce-0ecb-411f-b2ef-34cc1533508f",
+    "dedupeKey": "ashby:3bc2c9ce-0ecb-411f-b2ef-34cc1533508f",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - Oracle R12 EBS",
@@ -7525,7 +7525,7 @@
     "posted": "2026-06-24T21:19:59.596Z"
   },
   {
-    "slug": "ashby-53f09082-de6b-4b9d-8f2e-7e6ed20022fb",
+    "dedupeKey": "ashby:53f09082-de6b-4b9d-8f2e-7e6ed20022fb",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - Jaggaer",
@@ -7547,7 +7547,7 @@
     "posted": "2026-06-24T21:16:54.037Z"
   },
   {
-    "slug": "ashby-d8870697-6cdb-4b3d-9d11-b0bb1eea508c",
+    "dedupeKey": "ashby:d8870697-6cdb-4b3d-9d11-b0bb1eea508c",
     "company": "Zip Security",
     "companyDomain": "zipsec.com",
     "role": "Solutions Architect - Workday",
@@ -7575,7 +7575,7 @@
     "posted": "2026-06-24T21:13:22.119Z"
   },
   {
-    "slug": "greenhouse-7505582",
+    "dedupeKey": "greenhouse:7505582",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Solutions Architect, AI/Cloudflare Developer Platform ",
@@ -7598,7 +7598,7 @@
     "posted": "2026-06-24T21:02:12.000Z"
   },
   {
-    "slug": "greenhouse-7811361",
+    "dedupeKey": "greenhouse:7811361",
     "company": "Braze",
     "companyDomain": "braze.com",
     "role": "Lead Solutions Consultant",
@@ -7617,7 +7617,7 @@
     "posted": "2026-06-24T21:01:46.000Z"
   },
   {
-    "slug": "greenhouse-4707365005",
+    "dedupeKey": "greenhouse:4707365005",
     "company": "ujet.cx",
     "companyDomain": "ujet.cx",
     "role": "AI Data Engineer",
@@ -7639,7 +7639,7 @@
     "posted": "2026-06-24T20:45:24.000Z"
   },
   {
-    "slug": "greenhouse-7976934",
+    "dedupeKey": "greenhouse:7976934",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "AI Solutions Architect",
@@ -7661,7 +7661,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7976932",
+    "dedupeKey": "greenhouse:7976932",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "AI Solutions Architect",
@@ -7682,7 +7682,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-7989203",
+    "dedupeKey": "greenhouse:7989203",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Forward Deployed Engineer",
@@ -7702,7 +7702,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-8009366",
+    "dedupeKey": "greenhouse:8009366",
     "company": "Instacart",
     "companyDomain": "instacart.com",
     "role": "Senior Solutions Architect II",
@@ -7737,7 +7737,7 @@
     "posted": "2026-06-24T20:24:24.000Z"
   },
   {
-    "slug": "greenhouse-4682542006",
+    "dedupeKey": "greenhouse:4682542006",
     "company": "Yugabyte",
     "companyDomain": "yugabyte.com",
     "role": "Senior Sales Engineer",
@@ -7765,7 +7765,7 @@
     "posted": "2026-06-24T19:37:38.000Z"
   },
   {
-    "slug": "greenhouse-5170781007",
+    "dedupeKey": "greenhouse:5170781007",
     "company": "Temporal Technologies",
     "companyDomain": "temporal.io",
     "role": "Staff Solutions Architect, New Logo - Central",
@@ -7785,7 +7785,7 @@
     "posted": "2026-06-24T19:25:10.000Z"
   },
   {
-    "slug": "greenhouse-6100200004",
+    "dedupeKey": "greenhouse:6100200004",
     "company": "Turing AI",
     "companyDomain": "turing.ai",
     "role": "Senior AI Solutions Engineer - STEM",
@@ -7804,7 +7804,7 @@
     "posted": "2026-06-24T18:59:12.000Z"
   },
   {
-    "slug": "ashby-0b3f8d0d-f9d2-413f-b854-4c3b488f357c",
+    "dedupeKey": "ashby:0b3f8d0d-f9d2-413f-b854-4c3b488f357c",
     "company": "Snowflake",
     "companyDomain": "snowflake.com",
     "role": "Senior Solution Engineer - Insurance",
@@ -7831,7 +7831,7 @@
     "posted": "2026-06-24T18:42:29.781Z"
   },
   {
-    "slug": "greenhouse-8011143",
+    "dedupeKey": "greenhouse:8011143",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Technical Architect ",
@@ -7861,7 +7861,7 @@
     "posted": "2026-06-24T18:06:52.000Z"
   },
   {
-    "slug": "greenhouse-7979006",
+    "dedupeKey": "greenhouse:7979006",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Solutions Architect, People Technology",
@@ -7884,7 +7884,7 @@
     "posted": "2026-06-24T18:06:21.000Z"
   },
   {
-    "slug": "greenhouse-7976083",
+    "dedupeKey": "greenhouse:7976083",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer",
@@ -7919,7 +7919,7 @@
     "posted": "2026-06-24T18:06:16.000Z"
   },
   {
-    "slug": "greenhouse-7961356",
+    "dedupeKey": "greenhouse:7961356",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Forward Deployed Engineer - Okta for AI Agents",
@@ -7979,7 +7979,7 @@
     "posted": "2026-06-24T18:06:12.000Z"
   },
   {
-    "slug": "greenhouse-7897125",
+    "dedupeKey": "greenhouse:7897125",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer, Auth0",
@@ -8007,7 +8007,7 @@
     "posted": "2026-06-24T18:05:50.000Z"
   },
   {
-    "slug": "greenhouse-7868388",
+    "dedupeKey": "greenhouse:7868388",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Identity Specialist (Field CTO)",
@@ -8026,7 +8026,7 @@
     "posted": "2026-06-24T18:05:49.000Z"
   },
   {
-    "slug": "greenhouse-7852859",
+    "dedupeKey": "greenhouse:7852859",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Solutions Engineer, Okta (West Coast)",
@@ -8056,7 +8056,7 @@
     "posted": "2026-06-24T18:05:49.000Z"
   },
   {
-    "slug": "greenhouse-7821048",
+    "dedupeKey": "greenhouse:7821048",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solution Identity Specialist(Endpoint Identity Specialist)",
@@ -8086,7 +8086,7 @@
     "posted": "2026-06-24T18:05:47.000Z"
   },
   {
-    "slug": "greenhouse-7821041",
+    "dedupeKey": "greenhouse:7821041",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solution Identity Specialist(Identity Governance)",
@@ -8115,7 +8115,7 @@
     "posted": "2026-06-24T18:05:47.000Z"
   },
   {
-    "slug": "greenhouse-7768480",
+    "dedupeKey": "greenhouse:7768480",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer",
@@ -8139,7 +8139,7 @@
     "posted": "2026-06-24T18:05:46.000Z"
   },
   {
-    "slug": "greenhouse-7749222",
+    "dedupeKey": "greenhouse:7749222",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Solutions Architect, AI Identity ",
@@ -8163,7 +8163,7 @@
     "posted": "2026-06-24T18:05:45.000Z"
   },
   {
-    "slug": "greenhouse-7692313",
+    "dedupeKey": "greenhouse:7692313",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Solutions Engineer/Auth0",
@@ -8197,7 +8197,7 @@
     "posted": "2026-06-24T18:05:43.000Z"
   },
   {
-    "slug": "greenhouse-7600340",
+    "dedupeKey": "greenhouse:7600340",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer",
@@ -8222,7 +8222,7 @@
     "posted": "2026-06-24T18:05:31.000Z"
   },
   {
-    "slug": "greenhouse-7607557",
+    "dedupeKey": "greenhouse:7607557",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer (North East)",
@@ -8246,7 +8246,7 @@
     "posted": "2026-06-24T18:05:31.000Z"
   },
   {
-    "slug": "greenhouse-7588146",
+    "dedupeKey": "greenhouse:7588146",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer",
@@ -8278,7 +8278,7 @@
     "posted": "2026-06-24T18:05:29.000Z"
   },
   {
-    "slug": "greenhouse-7536447",
+    "dedupeKey": "greenhouse:7536447",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer- West Coast",
@@ -8312,7 +8312,7 @@
     "posted": "2026-06-24T18:05:20.000Z"
   },
   {
-    "slug": "greenhouse-7592210",
+    "dedupeKey": "greenhouse:7592210",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Engineer- West Coast",
@@ -8348,7 +8348,7 @@
     "posted": "2026-06-24T18:05:20.000Z"
   },
   {
-    "slug": "greenhouse-7532953",
+    "dedupeKey": "greenhouse:7532953",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Solutions Architect, Auth0",
@@ -8380,7 +8380,7 @@
     "posted": "2026-06-24T18:05:19.000Z"
   },
   {
-    "slug": "greenhouse-7535056",
+    "dedupeKey": "greenhouse:7535056",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Solutions Engineer, Auth0 - German speaking",
@@ -8406,7 +8406,7 @@
     "posted": "2026-06-24T18:05:19.000Z"
   },
   {
-    "slug": "greenhouse-7535277",
+    "dedupeKey": "greenhouse:7535277",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Strategic Solutions Engineer",
