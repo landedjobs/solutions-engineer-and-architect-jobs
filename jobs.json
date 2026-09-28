@@ -6457,31 +6457,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2a96c887-8f83-4141-a4d2-131af6f79ddf",
-    "companyId": "company_0e8bc5e0ab2ff0f75abd5dbf193ec064",
-    "company": "Snyk",
-    "companyDomain": "snyk.io",
-    "role": "Solutions Engineer",
-    "applyUrl": "https://go.landed.jobs/8jde920",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "containers"
-    ],
-    "posted": "2026-09-02T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Open Source 50",
-      "$7.4B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:14dfb593-593e-4446-8575-9b75e98fe9a2",
     "companyId": "company_9a07434be71a9928b313a764639073c9",
     "company": "Hewlett Packard Enterprise",
@@ -8631,6 +8606,34 @@
     "companyTier": "B",
     "companyBadges": [
       "$1.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:63d957b5-538e-4930-b0aa-5ee0f1a461de",
+    "companyId": "company_2cea620b44fcd3359d2ad1b84bf290e3",
+    "company": "Ouster",
+    "companyDomain": "ouster.com",
+    "role": "Director, Global Field Application Engineer",
+    "applyUrl": "https://go.landed.jobs/vj9erfz",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "director",
+    "skills": [
+      "lidar",
+      "3D perception systems",
+      "point cloud processing",
+      "sensor fusion"
+    ],
+    "posted": "2026-09-23T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.6B valuation",
       "Public"
     ]
   }
