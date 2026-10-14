@@ -1,5 +1,838 @@
 [
   {
+    "dedupeKey": "job:d25d14b5-3cba-445b-aca2-62aebd418345",
+    "companyId": "company_37af3fd55de19c5ed0c5e4674070701e",
+    "company": "Axon",
+    "companyDomain": "axon.com",
+    "role": "Mission Engineer II - Nashville",
+    "applyUrl": "https://go.landed.jobs/8jc5pmq",
+    "location": "Nashville, TN · Arizona, AZ",
+    "locations": [
+      "Nashville, TN",
+      "Arizona, AZ"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "APIs",
+      "scripting/ programming",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "REST APIs",
+      "cloud platforms",
+      "AI platforms",
+      "workflow automation",
+      "low-code development"
+    ],
+    "posted": "2026-10-13T22:16:26.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$42.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e93ea03d-7e6f-4a9c-8a30-a97ec76f7ec4",
+    "companyId": "company_067a3ff791863417522f914224a554a8",
+    "company": "Cloudflare",
+    "companyDomain": "cloudflare.com",
+    "role": "Senior Customer Engineer AI/ Start Up's",
+    "applyUrl": "https://go.landed.jobs/e8wjo2d",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Solutions Engineering",
+      "technical discovery",
+      "Cloudflare Developer Platform",
+      "Workers",
+      "Durable Objects",
+      "Workers AI",
+      "R2",
+      "KV",
+      "D1",
+      "Vectorize",
+      "Queues",
+      "Pages"
+    ],
+    "posted": "2026-10-13T21:46:59.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$99B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2cb90509-f113-4a1f-a2e9-072ef532ffad",
+    "companyId": "company_cdc2c0c2fd8c89c41b6c0e75b18adb0e",
+    "company": "Twilio",
+    "companyDomain": "twilio.com",
+    "role": "Senior Presales Engineer",
+    "applyUrl": "https://go.landed.jobs/ou37lau",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "pre-sales",
+      "software development",
+      "Telecom",
+      "SIP",
+      "Contact Center",
+      "Security",
+      "sales methodologies"
+    ],
+    "posted": "2026-10-13T21:42:35.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$29.9B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ac2f51b5-9419-4ebd-beec-de750206262b",
+    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
+    "company": "Stripe",
+    "companyDomain": "stripe.com",
+    "role": "Specialist Solutions Architecture, Link",
+    "applyUrl": "https://go.landed.jobs/hj7bvbt",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "js",
+      "RESTful APIs",
+      "A/B testing"
+    ],
+    "posted": "2026-10-13T20:34:39.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S09",
+      "$159B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:6c748bf4-0913-453a-9856-b77509226ebe",
+    "companyId": "company_38c0d1a14d4a7fad161691eab805119e",
+    "company": "Samsara",
+    "companyDomain": "samsara.com",
+    "role": "Enterprise Sales Engineer - US Southeast",
+    "applyUrl": "https://go.landed.jobs/mmk34bo",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US",
+      "Gabon"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "technical consulting",
+      "cloud software",
+      "cloud-connected hardware",
+      "computer networking",
+      "business systems integration",
+      "automation",
+      "control systems",
+      "Bash",
+      "Python",
+      "JavaScript",
+      "open APIs"
+    ],
+    "posted": "2026-10-13T14:26:32.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$21.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:db9a4f7e-99e0-49f9-9efc-32442b303870",
+    "companyId": "company_cedd88e875a65fcc20b493a603b501ad",
+    "company": "Okta",
+    "companyDomain": "okta.com",
+    "role": "Senior Manager, Solutions Engineering, Auth0",
+    "applyUrl": "https://go.landed.jobs/4has3zp",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Bellevue, WA",
+      "Chicago, IL",
+      "New York City, NY",
+      "San Francisco, CA",
+      "Washington, D.C., DC",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "technical savviness and business insight",
+      "provide secure digital experiences",
+      "discern their true technical needs",
+      "ask detailed and clarifying questions",
+      "present solutions that drive significant business outcomes",
+      "full hiring process—from sourcing to closing",
+      "foster their professional growth through hands-on development plans",
+      "Presales Leadership sponsorship",
+      "proposing innovative strategies",
+      "operationalize enterprise sales methodologies (Command of the Message)",
+      "workforce planning",
+      "skills development"
+    ],
+    "posted": "2026-10-13T14:00:32.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$24.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a6aee606-27b1-4e87-bf5a-4383e799c9c5",
+    "companyId": "company_be5559b6ea506372aa935dccce6c1e50",
+    "company": "Chainguard",
+    "companyDomain": "chainguard.dev",
+    "role": "Enterprise Sales Engineer - Canada",
+    "applyUrl": "https://go.landed.jobs/2dqy394",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Canada",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "",
+    "skills": [
+      "demos",
+      "RFP/RFI responses",
+      "POVs",
+      "MEDDPICC",
+      "Command of the Message"
+    ],
+    "posted": "2026-10-13T13:47:53.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$3.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:940694da-c651-4fa1-bde1-28990991824f",
+    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
+    "company": "Qualcomm",
+    "companyDomain": "qualcomm.com",
+    "role": "Solution Engineer (U.S. Remote work eligible)",
+    "applyUrl": "https://go.landed.jobs/dv7sxfp",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Diego, CA",
+      "Massachusetts, MA",
+      "North Carolina, NC",
+      "Oregon, OR",
+      "Texas, TX",
+      "Washington, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "C, C++, Java, Python",
+      "debugging techniques",
+      "embedded or cloud software (python, C/C, or equivalent) with exposure to Linux or RTOSs"
+    ],
+    "posted": "2026-10-13T13:39:22.294Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$155B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:4947611c-2528-4291-945e-dc653b950341",
+    "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
+    "company": "Zscaler",
+    "companyDomain": "zscaler.com",
+    "role": "Senior Sales Engineer, Majors - Colorado",
+    "applyUrl": "https://go.landed.jobs/ldy9xwp",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Colorado, CO"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "TCP/IP",
+      "DNS",
+      "routing",
+      "VPN",
+      "firewalls"
+    ],
+    "posted": "2026-10-13T02:09:45.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$24.4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:330cce6d-0c03-4479-a7b9-e210fd9e8734",
+    "companyId": "company_5ab4e4bbe23c99e7958a1ccec399857e",
+    "company": "Stord",
+    "companyDomain": "stord.com",
+    "role": "Solutions Engineer I",
+    "applyUrl": "https://go.landed.jobs/29nm7om",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Atlanta, GA",
+      "Las Vegas, NV",
+      "Hebron, KY",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "Salesforce"
+    ],
+    "posted": "2026-10-13T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp E-Commerce 50",
+      "$3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:12f66803-f6a7-4cba-8ace-f7246ebe0507",
+    "companyId": "company_067a3ff791863417522f914224a554a8",
+    "company": "Cloudflare",
+    "companyDomain": "cloudflare.com",
+    "role": "Senior Customer Engineer, Majors - TOLA",
+    "applyUrl": "https://go.landed.jobs/c7nes44",
+    "location": "Houston, TX",
+    "locations": [
+      "Houston, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "DNS",
+      "CDN",
+      "Zero Trust",
+      "Network Security",
+      "Workers"
+    ],
+    "posted": "2026-10-12T21:03:51.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$99B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e812af36-f006-4232-a81b-70113d9e7016",
+    "companyId": "company_86b616db3dfee97efbd60ba67ae128df",
+    "company": "Orca Security",
+    "companyDomain": "orca.security",
+    "role": "Sales Engineer - AI/AppSec/Cloud Security",
+    "applyUrl": "https://go.landed.jobs/18tt7zo",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Boston, MA",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "cloud security",
+      "AWS / GCP / Azure",
+      "CSPM / Vulnerability Management",
+      "CRM"
+    ],
+    "posted": "2026-10-12T19:05:52.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$1.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5ec19d0b-5731-4f14-aefe-4c053c2ced90",
+    "companyId": "company_505aadec12321d72d448e7366c49ab96",
+    "company": "Databricks",
+    "companyDomain": "databricks.com",
+    "role": "Delivery Solutions Architect - Digital Native Business",
+    "applyUrl": "https://go.landed.jobs/u9irjir",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US",
+      "California, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "Databricks",
+      "AWS",
+      "Azure"
+    ],
+    "posted": "2026-10-12T18:50:09.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$190B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:b8d276bd-0f89-4272-9253-1826339df467",
+    "companyId": "company_4ae8cbd53871b54bd75d691dba393e7e",
+    "company": "Upwind Security",
+    "companyDomain": "upwind.io",
+    "role": "Solutions Architect - West",
+    "applyUrl": "https://go.landed.jobs/rwqy51x",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "West Coast (Remote)"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "k8s",
+      "containers",
+      "Terraform"
+    ],
+    "posted": "2026-10-12T18:00:51.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Cloud Infra 50",
+      "$1.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:97a96266-82c5-4ddc-8f6a-3c9f6ad7960a",
+    "companyId": "company_5a00883f75b4e926e06957b0989f13d7",
+    "company": "Snowflake",
+    "companyDomain": "snowflake.com",
+    "role": "Senior Solution Engineer, Observe",
+    "applyUrl": "https://go.landed.jobs/96map69",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Observability concepts (metrics, logging, tracing)",
+      "Prometheus",
+      "OpenTelemetry",
+      "ELK Stack",
+      "Kubernetes",
+      "Docker",
+      "Microservices",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "posted": "2026-10-12T16:59:17.286Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$102B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:53318a9c-4334-42ff-b1dc-f9f257322bad",
+    "companyId": "company_067a3ff791863417522f914224a554a8",
+    "company": "Cloudflare",
+    "companyDomain": "cloudflare.com",
+    "role": "Senior Customer Engineer, Named - Portland, OR",
+    "applyUrl": "https://go.landed.jobs/qcadbni",
+    "location": "Portland, OR",
+    "locations": [
+      "Portland, OR"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Workers AI",
+      "AI Gateway",
+      "Vectorize",
+      "prompt engineering",
+      "Large Language Model (LLM) orchestration",
+      "Retrieval-Augmented Generation (RAG) architectures"
+    ],
+    "posted": "2026-10-12T16:56:41.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$99B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:8ec22690-6ddf-41dd-a098-3e5921379810",
+    "companyId": "company_f2d68e9e7da3706022fbc00c72fa9895",
+    "company": "Instructure",
+    "companyDomain": "instructure.com",
+    "role": "Solutions Engineer - Partner Sales",
+    "applyUrl": "https://go.landed.jobs/oqn2iqy",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "",
+    "skills": [
+      "presentation skills",
+      "communication skills"
+    ],
+    "posted": "2026-10-12T16:29:37.476Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp EdTech 50",
+      "$4.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a506da94-f859-403d-8923-835357098456",
+    "companyId": "company_f2d68e9e7da3706022fbc00c72fa9895",
+    "company": "Instructure",
+    "companyDomain": "instructure.com",
+    "role": "Solutions Engineer, Business & Government",
+    "applyUrl": "https://go.landed.jobs/bqauf32",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-10-12T16:25:41.311Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp EdTech 50",
+      "$4.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:82d7796f-948c-4375-9b79-b81aa552220e",
+    "companyId": "company_df07f051cc68e0cd5c556fa3bd7c0716",
+    "company": "Sierra",
+    "companyDomain": "sierra.ai",
+    "role": "Sales Engineering Manager, High Growth",
+    "applyUrl": "https://go.landed.jobs/2j0ubxx",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Sales Engineering",
+      "Solutions Engineering",
+      "customer-facing technical sales",
+      "presales processes",
+      "enterprise and strategic sales cycles"
+    ],
+    "posted": "2026-10-12T14:00:23.953Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$15.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2a38f945-1279-4c46-bd4a-c37c1a883377",
+    "companyId": "company_94331af4b4c9f156400dd00933f4ad34",
+    "company": "CoreWeave",
+    "companyDomain": "coreweave.com",
+    "role": "Senior Account Solutions Architect",
+    "applyUrl": "https://go.landed.jobs/nstgd1u",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "LLM",
+      "fine-tuning",
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "posted": "2026-10-12T13:58:34.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$39.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:0f10ba8d-57cc-4316-8583-d0d9db5160ec",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Solutions Architect, AI Infrastructure Build Readiness - Execution",
+    "applyUrl": "https://go.landed.jobs/7ndo3y0",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:3d3d54c4-f88a-460c-bfbd-e78dd87c034d",
+    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
+    "company": "Palo Alto Networks",
+    "companyDomain": "paloaltonetworks.com",
+    "role": "Solutions Consultant 2",
+    "applyUrl": "https://go.landed.jobs/g2te9wy",
+    "location": "Atlanta, GA +2",
+    "locations": [
+      "Atlanta, GA",
+      "Denver, CO",
+      "Charlotte, NC"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "technical pre-sales",
+      "SaaS offerings",
+      "Networking",
+      "Network Security",
+      "Cybersecurity",
+      "Private/Public Cloud Security",
+      "SOC/Endpoint",
+      "SASE",
+      "AI Security",
+      "AI fluency"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$270B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:6d7dc2f5-5769-43cb-a10c-69ab90121489",
+    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
+    "company": "Palo Alto Networks",
+    "companyDomain": "paloaltonetworks.com",
+    "role": "Cortex Domain Consultant",
+    "applyUrl": "https://go.landed.jobs/2x6if6l",
+    "location": "Boston, MA +3",
+    "locations": [
+      "Boston, MA",
+      "Hartford, CT",
+      "Baltimore, MD",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Cortex",
+      "XDR",
+      "Attack Surface Management",
+      "SOAR",
+      "Incident Response",
+      "IBM QRadar",
+      "SIEM",
+      "Python"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$270B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:8613bce9-bc55-49e6-b6fc-9faf4bc03386",
+    "companyId": "company_38a66f9eb8b1b1888b86733e4e4f49f4",
+    "company": "Proofpoint",
+    "companyDomain": "proofpoint.com",
+    "role": "Senior Sales Engineer - Data Security",
+    "applyUrl": "https://go.landed.jobs/y8nje30",
+    "location": "Washington, WA +6",
+    "locations": [
+      "Washington, WA",
+      "Florida, FL",
+      "New York City, NY",
+      "Texas, TX",
+      "Nevada, NV",
+      "Illinois, IL",
+      "Massachusetts, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Data Loss Prevention suite (email, endpoint, cloud and web)",
+      "Insider Risk",
+      "Data Security Posture Management"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$12.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:c61bf346-4a99-48dc-a730-dcb393f7e06d",
+    "companyId": "company_a8ba89e0fdb5a6e1ac1ee6ccce7cb058",
+    "company": "CrowdStrike",
+    "companyDomain": "crowdstrike.com",
+    "role": "Manager, Sales Engineering (Remote)",
+    "applyUrl": "https://go.landed.jobs/chi33i0",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "endpoint or network security",
+      "AV",
+      "EDR",
+      "incident response",
+      "forensics",
+      "SIEM",
+      "firewall",
+      "HIPS/IDS",
+      "PowerShell",
+      "Python",
+      "Bash",
+      "AWS"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Cloud Infra 50",
+      "$194B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:d7ddaea8-41df-432e-8b12-f8b3adbfb3b6",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Field Applications Engineer, Embedded Systems - NALA",
+    "applyUrl": "https://go.landed.jobs/o4aphd2",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "NVIDIA GPU development experience",
+      "gStreamer, ROS, and/or OpenCV experience",
+      "Deep Learning and/or AI experience",
+      "Functional safety experience"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e9794bd3-7564-4e9a-afd1-816902a6f725",
+    "companyId": "company_1a1f1762241d4347f22ce5defa6ebcc5",
+    "company": "Applied Materials",
+    "companyDomain": "appliedmaterials.com",
+    "role": "Field Applications Engineer New College Grad- Master's/PhD (Santa Clara, Austin, Gloucester, Phoenix)",
+    "applyUrl": "https://go.landed.jobs/fqymad3",
+    "location": "Santa Clara, CA · Phoenix, AZ",
+    "locations": [
+      "Santa Clara, CA",
+      "Phoenix, AZ"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "entry",
+    "skills": [
+      "AI/ML",
+      "data science"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$403B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:a2dcbd11-6713-4ff2-ab00-e379e15ed31c",
     "companyId": "company_d44331c910ed5795dcf0803f1f8c018d",
     "company": "Claroty",
@@ -18,7 +851,7 @@
       "zero-trust architectures",
       "OT/ICS/CPS environments"
     ],
-    "posted": "2026-10-10T03:02:56.000Z",
+    "posted": "2026-10-11T23:37:26.000Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Security 50",
@@ -244,6 +1077,30 @@
     ]
   },
   {
+    "dedupeKey": "job:60ffa315-0f69-4f7e-ad41-87aee8070319",
+    "companyId": "company_a27705725f43cf3bcd3f42c56569bb4b",
+    "company": "Darktrace",
+    "companyDomain": "darktrace.com",
+    "role": "Senior Solutions Engineer, Acquisition",
+    "applyUrl": "https://go.landed.jobs/uukr5ag",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Denver, CO",
+      "Colorado, Brazil"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-09T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$5B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:8fae42f9-15a8-4e35-ad22-9bca3e7600b1",
     "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
     "company": "Intel",
@@ -449,36 +1306,6 @@
     ]
   },
   {
-    "dedupeKey": "job:b8d276bd-0f89-4272-9253-1826339df467",
-    "companyId": "company_4ae8cbd53871b54bd75d691dba393e7e",
-    "company": "Upwind Security",
-    "companyDomain": "upwind.io",
-    "role": "Solutions Architect - West",
-    "applyUrl": "https://go.landed.jobs/rwqy51x",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "West Coast (Remote)"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "k8s",
-      "containers",
-      "Terraform"
-    ],
-    "posted": "2026-10-08T16:05:44.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Cloud Infra 50",
-      "$1.5B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:349c7c27-3743-417f-8867-8ef25b43181e",
     "companyId": "company_2688e000e0491926ab2750639c7aebf9",
     "company": "Datadog",
@@ -661,35 +1488,6 @@
     ]
   },
   {
-    "dedupeKey": "job:782558db-a6e9-473d-91a8-4f0e1cd8611f",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Solutions Engineer, Endpoint - West",
-    "applyUrl": "https://go.landed.jobs/t4apt2r",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Phoenix, AZ",
-      "Denver, CO",
-      "Seattle, WA",
-      "Portland, OR"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "Salesforce",
-      "complex sales"
-    ],
-    "posted": "2026-10-08T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:d9c17806-1fc1-4e2c-8dd3-ff99630817f1",
     "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
     "company": "Anthropic",
@@ -793,9 +1591,8 @@
     "companyDomain": "netskope.com",
     "role": "Sr. Solutions Engineer",
     "applyUrl": "https://go.landed.jobs/4v4uz9v",
-    "location": "US · California, CA",
+    "location": "California, CA",
     "locations": [
-      "US",
       "California, CA"
     ],
     "remote": "",
@@ -895,33 +1692,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:9361b534-2ac1-454d-a886-2e1649e0f28d",
-    "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
-    "company": "Zscaler",
-    "companyDomain": "zscaler.com",
-    "role": "Manager, Commercial Sales Engineering - West",
-    "applyUrl": "https://go.landed.jobs/1hao5b6",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "discovery",
-      "technical qualification",
-      "proof-of-concept"
-    ],
-    "posted": "2026-10-07T16:51:16.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$24.4B valuation"
     ]
   },
   {
@@ -1175,66 +1945,6 @@
     ]
   },
   {
-    "dedupeKey": "job:3e2ad977-e1ac-4e8c-ac29-ae12b42c641b",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Domain Consultant (Cortex)",
-    "applyUrl": "https://go.landed.jobs/ykv4iy9",
-    "location": "Boston, MA +3",
-    "locations": [
-      "Boston, MA",
-      "Hartford, CT",
-      "Jersey City, NJ",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "Security Operations",
-      "pre-sales/sales engineering",
-      "SIEM",
-      "SOAR",
-      "XDR/EDR",
-      "IBM QRadar",
-      "Python"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:60ffa315-0f69-4f7e-ad41-87aee8070319",
-    "companyId": "company_a27705725f43cf3bcd3f42c56569bb4b",
-    "company": "Darktrace",
-    "companyDomain": "darktrace.com",
-    "role": "Senior Solutions Engineer, Acquisition",
-    "applyUrl": "https://go.landed.jobs/uukr5ag",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Denver, CO",
-      "Colorado, Brazil",
-      "Seattle, WA",
-      "Washington, WA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$5B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:65b7f84c-c15e-4a2b-a1e7-ec2ea7fd6fc4",
     "companyId": "company_24518088d9929534199e88eb0d2a46cc",
     "company": "Analog Devices",
@@ -1460,36 +2170,6 @@
     ]
   },
   {
-    "dedupeKey": "job:37edb2f7-7a03-489e-8546-410e5336ec69",
-    "companyId": "company_505aadec12321d72d448e7366c49ab96",
-    "company": "Databricks",
-    "companyDomain": "databricks.com",
-    "role": "Sr. Solutions Architect",
-    "applyUrl": "https://go.landed.jobs/i89kq22",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Texas, TX"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "SQL",
-      "Spark",
-      "Snowflake",
-      "Databricks",
-      "AWS"
-    ],
-    "posted": "2026-10-06T19:48:26.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$190B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:3d756778-f5ed-4eb3-8e13-128558ddc5fc",
     "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
     "company": "Stripe",
@@ -1511,6 +2191,32 @@
     "companyBadges": [
       "YC S09",
       "$159B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:82d39599-8dc9-4bfa-b577-04a7ae13598c",
+    "companyId": "company_afc07e995dda27ededbeaeb5fa4a0b10",
+    "company": "DriveNets",
+    "companyDomain": "drivenets.com",
+    "role": "Senior Solutions Engineer, AI/HPC Networking",
+    "applyUrl": "https://go.landed.jobs/85aqfo1",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Remote - North America"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Azure"
+    ],
+    "posted": "2026-10-06T19:07:25.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$8.5B valuation",
+      "Series C"
     ]
   },
   {
@@ -1572,7 +2278,7 @@
     "companyId": "company_48cd2559e09cff8172a0f69a9399b9b7",
     "company": "Netskope",
     "companyDomain": "netskope.com",
-    "role": "VP, Solutions Engineer NAM",
+    "role": "VP, Sales Engineering NAM",
     "applyUrl": "https://go.landed.jobs/7uv1qkq",
     "location": "US",
     "locations": [
@@ -2236,33 +2942,6 @@
     ]
   },
   {
-    "dedupeKey": "job:b5163e22-0407-46dc-845b-8e4075d23b0f",
-    "companyId": "company_0540d28255fa04e676793ae3b30a7db8",
-    "company": "Zoom",
-    "companyDomain": "zoom.com",
-    "role": "Contact Center - Consulting Solution Engineer",
-    "applyUrl": "https://go.landed.jobs/ebknfan",
-    "location": "Denver, CO",
-    "locations": [
-      "Denver, CO"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "Salesforce",
-      "Zendesk",
-      "ServiceNow"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$28.2B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:d03d6489-4e2c-44de-85be-7ae7fa3b997d",
     "companyId": "company_c27504569443304f08e446a8921f7917",
     "company": "F5",
@@ -2574,35 +3253,6 @@
     ]
   },
   {
-    "dedupeKey": "job:27b7f2a1-8124-4010-8382-66404d497506",
-    "companyId": "company_b5f69449ca7b530e0650630af1e38abc",
-    "company": "Broadcom",
-    "companyDomain": "broadcom.com",
-    "role": "Field Sales Engineer",
-    "applyUrl": "https://go.landed.jobs/pnmmt86",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "operational execution and high-level strategic leadership",
-      "closing deals",
-      "manage multi-billion dollar strategic customer accounts",
-      "lead long-term planning",
-      "build C-level relationships"
-    ],
-    "posted": "2026-10-02T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$1.9T valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:48baba7f-487a-4918-9241-fa76e5347d3d",
     "companyId": "company_b5b63142bc58c6ae10cf40c55a7d7855",
     "company": "KLA",
@@ -2630,37 +3280,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$239B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:6531e2df-7aa9-4805-a93c-cef03dbf54fa",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Solutions Architect, Agentic AI — Safety and Security",
-    "applyUrl": "https://go.landed.jobs/ydwc9xv",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "RAG",
-      "agent orchestration",
-      "distributed systems",
-      "LLM",
-      "Python",
-      "PyTorch",
-      "TensorFlow"
-    ],
-    "posted": "2026-10-02T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
     ]
   },
   {
@@ -2692,6 +3311,33 @@
     "companyBadges": [
       "TrueUp SaaS 50",
       "$95.4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a6c6a6e1-2765-4b46-a142-918919ce2c8b",
+    "companyId": "company_067a3ff791863417522f914224a554a8",
+    "company": "Cloudflare",
+    "companyDomain": "cloudflare.com",
+    "role": "Senior Customer Engineer, Named - New York City",
+    "applyUrl": "https://go.landed.jobs/lmha8bo",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "DNS, CDN, Zero Trust, Network Security, Workers",
+      "Proof of Concepts (PoCs) and Technical Validations",
+      "technical presentations, architectural diagrams, and demonstrations"
+    ],
+    "posted": "2026-10-01T19:54:47.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$99B valuation"
     ]
   },
   {
@@ -3147,32 +3793,6 @@
     ]
   },
   {
-    "dedupeKey": "job:82d39599-8dc9-4bfa-b577-04a7ae13598c",
-    "companyId": "company_afc07e995dda27ededbeaeb5fa4a0b10",
-    "company": "DriveNets",
-    "companyDomain": "drivenets.com",
-    "role": "Senior Solutions Engineer, AI/HPC Networking",
-    "applyUrl": "https://go.landed.jobs/85aqfo1",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Remote - North America"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "Azure"
-    ],
-    "posted": "2026-09-30T20:41:42.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$8.5B valuation",
-      "Series C"
-    ]
-  },
-  {
     "dedupeKey": "job:8b1eeb97-2e73-4dbd-9e83-74664e7623b9",
     "companyId": "company_20a83b42cd540c2fcdee61e4f14793ed",
     "company": "GitLab",
@@ -3291,35 +3911,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:09cdb7cd-1621-44d9-8c2b-55f711836f9e",
-    "companyId": "company_067a3ff791863417522f914224a554a8",
-    "company": "Cloudflare",
-    "companyDomain": "cloudflare.com",
-    "role": "Senior Customer Engineer SLED TX (Austin, Dallas or Houston)",
-    "applyUrl": "https://go.landed.jobs/s5jcuad",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Austin, TX",
-      "Dallas, TX",
-      "Houston, TX"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "LLM",
-      "RAG",
-      "prompt engineering"
-    ],
-    "posted": "2026-09-30T13:26:26.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$99B valuation"
     ]
   },
   {
@@ -3470,29 +4061,6 @@
     "companyBadges": [
       "TrueUp Real Estate Tech 50",
       "$101B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:22ca2a32-1207-48d5-8f57-4b986e8423d1",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Solutions Architect, Virtualization",
-    "applyUrl": "https://go.landed.jobs/tei68zw",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [],
-    "posted": "2026-09-30T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
     ]
   },
   {
@@ -3894,7 +4462,7 @@
     "applyUrl": "https://go.landed.jobs/2rpgygj",
     "location": "🌐 Remote (US)",
     "locations": [
-      "Georgia"
+      "US"
     ],
     "remote": "remote",
     "region": "remote",
@@ -5248,38 +5816,12 @@
     ]
   },
   {
-    "dedupeKey": "job:128c9650-3d06-4945-b4f6-311a35037929",
-    "companyId": "company_d393b0257ebf2d6838dabbc0549e6f62",
-    "company": "Tencent",
-    "companyDomain": "tencent.com",
-    "role": "Senior Solution Architect - EdgeOne",
-    "applyUrl": "https://go.landed.jobs/6zkr9wj",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "communication skills",
-      "building trusting relationships"
-    ],
-    "posted": "2026-09-20T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$545B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:33d83438-8d2e-4eaa-80a7-8c999b07ab84",
-    "companyId": "company_c697301e76cac18c0607c05633c1eb58",
-    "company": "Omni",
-    "companyDomain": "omni.co",
-    "role": "Manager, Solutions Engineering",
-    "applyUrl": "https://go.landed.jobs/87wpt5d",
+    "dedupeKey": "job:e492f296-0842-44d5-90d8-429a8db63bd6",
+    "companyId": "company_e1c1b81d668b8bb7fdb8fcc01dcb8056",
+    "company": "Planet",
+    "companyDomain": "planet.com",
+    "role": "Infrastructure Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/75ocmu2",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -5289,317 +5831,25 @@
     "family": "developer_relations_solutions",
     "level": "mid",
     "skills": [
-      "SQL",
-      "Snowflake",
-      "BigQuery",
-      "Databricks",
-      "Redshift",
-      "dbt",
-      "Looker",
-      "Tableau",
-      "Power BI",
-      "Mode",
-      "Sisense"
+      "Kubernetes",
+      "Google Cloud",
+      "Terraform",
+      "CI/CD"
     ],
-    "posted": "2026-09-19T00:58:46.333Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T23:47:07.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Cloud Infra 50",
-      "$1.5B valuation"
+      "$7.3B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:50f081d3-a305-4663-80fc-050bb76670c4",
-    "companyId": "company_1130fb3c5635dd16f88ea2e3d2960a36",
-    "company": "Webflow",
-    "companyDomain": "webflow.com",
-    "role": "Lead Solutions Engineer - Central / East",
-    "applyUrl": "https://go.landed.jobs/jmkhmue",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "JavaScript"
-    ],
-    "posted": "2026-09-18T22:41:16.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S13",
-      "$4B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:ce98e978-f402-4768-9013-c6cb1e8a32cc",
-    "companyId": "company_0804f03f56161a7ce50d4ed1f6157b51",
-    "company": "Profound",
-    "companyDomain": "tryprofound.com",
-    "role": "Manager, Solutions Consulting",
-    "applyUrl": "https://go.landed.jobs/hiedgnh",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "APIs",
-      "data models",
-      "integrations",
-      "BI connections",
-      "analytics workflows",
-      "LLMs"
-    ],
-    "posted": "2026-09-18T21:39:03.866Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:bd038119-277b-434f-ac7b-453382c769a2",
-    "companyId": "company_5a00883f75b4e926e06957b0989f13d7",
-    "company": "Snowflake",
-    "companyDomain": "snowflake.com",
-    "role": "Senior Solution Engineer, Financial Services",
-    "applyUrl": "https://go.landed.jobs/x3n0goy",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "pre-sales",
-      "presenting",
-      "machine learning",
-      "generative AI",
-      "cloud technologies",
-      "Data Lake",
-      "Data Mesh",
-      "Data Fabric",
-      "ETL",
-      "analytics"
-    ],
-    "posted": "2026-09-18T21:31:47.281Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$102B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:df7f6c71-0562-42c4-8f97-f7064d05e4d0",
-    "companyId": "company_265a491e233ee65d333560b30bd3239f",
-    "company": "Astranis Space Technologies",
-    "companyDomain": "astranis.com",
-    "role": "Network Planning Sales Engineer Intern (Winter 2027)",
-    "applyUrl": "https://go.landed.jobs/cu44nse",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "intern",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-09-18T20:51:12.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W16",
-      "$3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:b698328d-1854-48dd-9bb9-68a1e6d33683",
-    "companyId": "company_265a491e233ee65d333560b30bd3239f",
-    "company": "Astranis Space Technologies",
-    "companyDomain": "astranis.com",
-    "role": "Network Planning Sales Engineer Associate (Winter 2027)",
-    "applyUrl": "https://go.landed.jobs/tygdy47",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "entry",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-09-18T20:50:57.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W16",
-      "$3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:8c83776f-20ff-4f18-915c-04269eff356b",
-    "companyId": "company_b8cfd31bc77c9cf605325778aef61a18",
-    "company": "Xometry",
-    "companyDomain": "xometry.com",
-    "role": "Senior Solutions Engineer, Injection Molding",
-    "applyUrl": "https://go.landed.jobs/7v8vfpc",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-09-18T18:57:19.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Marketplace 50",
-      "$4.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e83b0511-5dc0-42ce-8dee-33eab34236be",
-    "companyId": "company_b8cfd31bc77c9cf605325778aef61a18",
-    "company": "Xometry",
-    "companyDomain": "xometry.com",
-    "role": "Senior Solutions Engineer, Injection Molding",
-    "applyUrl": "https://go.landed.jobs/mp7uadv",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Denver, CO"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-09-18T18:56:49.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Marketplace 50",
-      "$4.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:9536195b-c320-4783-8d47-e98235ee5bda",
-    "companyId": "company_b8cfd31bc77c9cf605325778aef61a18",
-    "company": "Xometry",
-    "companyDomain": "xometry.com",
-    "role": "Senior Solutions Engineer, Injection Molding",
-    "applyUrl": "https://go.landed.jobs/divlc1v",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Waltham, MA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-09-18T18:56:21.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Marketplace 50",
-      "$4.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:965d6fa0-d64b-4ca4-91ab-5715fb9a39e3",
-    "companyId": "company_b8cfd31bc77c9cf605325778aef61a18",
-    "company": "Xometry",
-    "companyDomain": "xometry.com",
-    "role": "Senior Solutions Engineer, Injection Molding",
-    "applyUrl": "https://go.landed.jobs/f0rhm8j",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Lexington, KY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-09-18T18:55:53.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Marketplace 50",
-      "$4.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:44edb16f-2784-4c01-b4eb-4992d4fd65dd",
-    "companyId": "company_b8cfd31bc77c9cf605325778aef61a18",
-    "company": "Xometry",
-    "companyDomain": "xometry.com",
-    "role": "Senior Solutions Engineer, Injection Molding",
-    "applyUrl": "https://go.landed.jobs/lupoeot",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "North Bethesda, MD"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-09-18T18:54:26.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Marketplace 50",
-      "$4.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:1f3b36ea-7e3c-44a1-8396-aa99b31b0b27",
-    "companyId": "company_798c788dd91233403b67cc3d453e063b",
-    "company": "Abnormal AI",
-    "companyDomain": "abnormal.ai",
-    "role": "Enterprise Sales Engineer - TOLA",
-    "applyUrl": "https://go.landed.jobs/r67vaed",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "product demonstrations",
-      "Proof of Value (POV) programs",
-      "OAuth and REST APIs",
-      "Microsoft Exchange Online / Microsoft 365",
-      "Google Workspace",
-      "enterprise email security platforms",
-      "SOC incident response"
-    ],
-    "posted": "2026-09-18T14:56:12.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$5.1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:2450cffd-b913-4451-9e1b-0b373b9acb6c",
-    "companyId": "company_c27504569443304f08e446a8921f7917",
-    "company": "F5",
-    "companyDomain": "f5.com",
-    "role": "Senior Solutions Engineer (Remote)",
-    "applyUrl": "https://go.landed.jobs/2e9lr6g",
+    "dedupeKey": "job:f6f50f36-cf99-48a7-9fa2-9723c261f850",
+    "companyId": "company_54fa32e30508136031070007f42317d0",
+    "company": "SentinelOne",
+    "companyDomain": "sentinelone.com",
+    "role": "Senior Solutions Engineer, MSSP Partner",
+    "applyUrl": "https://go.landed.jobs/4mradl6",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -5611,24 +5861,49 @@
     "skills": [
       "AWS",
       "Azure",
-      "K8s",
-      "Docker",
-      "Microservices"
+      "microservices"
     ],
-    "posted": "2026-09-18T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T21:34:44.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Security 50",
-      "$22.9B valuation"
+      "$6.5B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:74ca0402-0783-49cf-9b0e-1db7ad056050",
-    "companyId": "company_84dc88fce520b35dabff64f64af112cb",
-    "company": "Grafana Labs",
-    "companyDomain": "grafana.com",
-    "role": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
-    "applyUrl": "https://go.landed.jobs/3iv2zbw",
+    "dedupeKey": "job:094d88e2-1d1a-4501-b385-4d7be89281b3",
+    "companyId": "company_54fa32e30508136031070007f42317d0",
+    "company": "SentinelOne",
+    "companyDomain": "sentinelone.com",
+    "role": "Staff Solutions Engineer, MSSP Partner",
+    "applyUrl": "https://go.landed.jobs/lqlxv3w",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "staff",
+    "skills": [
+      "AWS",
+      "Azure",
+      "microservices"
+    ],
+    "posted": "2026-10-13T21:34:33.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$6.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:85c7d508-ee6b-48fd-b849-588035b252ee",
+    "companyId": "company_54fa32e30508136031070007f42317d0",
+    "company": "SentinelOne",
+    "companyDomain": "sentinelone.com",
+    "role": "Senior Solutions Engineer, MSSP Ecosystem Partner",
+    "applyUrl": "https://go.landed.jobs/h3md57o",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -5638,59 +5913,103 @@
     "family": "developer_relations_solutions",
     "level": "senior",
     "skills": [],
-    "posted": "2026-09-17T23:03:50.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T21:34:20.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Open Source 50",
-      "$6B valuation"
+      "$6.5B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:fe33fc88-040f-4ee4-ae9a-38ad49b7c84a",
-    "companyId": "company_08a07ef1a38da36f3dd7ae9ba6b2e71c",
-    "company": "Temporal Technologies",
-    "companyDomain": "temporal.io",
-    "role": "Senior Developer Success Engineer - East",
-    "applyUrl": "https://go.landed.jobs/me63aan",
+    "dedupeKey": "job:09c30913-67c8-4bc4-ab63-4e81aa7554bc",
+    "companyId": "company_54fa32e30508136031070007f42317d0",
+    "company": "SentinelOne",
+    "companyDomain": "sentinelone.com",
+    "role": "Staff Solutions Engineer, MSSP Ecosystem Partner",
+    "applyUrl": "https://go.landed.jobs/wm2iem2",
     "location": "🌐 Remote (US)",
     "locations": [
-      "US",
-      "Austin, TX",
-      "Dallas, TX",
-      "Boston, MA",
-      "New York City, NY"
+      "US"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "Go",
-      "Python",
-      "Java",
-      "Kubernetes",
-      "Docker",
-      "Prometheus"
-    ],
-    "posted": "2026-09-17T21:23:05.663Z",
-    "companyTier": "A",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-10-13T21:34:05.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "$12.6B valuation",
+      "$6.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a3217d9a-b360-4627-bd2b-a04225bb05c9",
+    "companyId": "company_55a7609b5de1a9d9bceaaf952099f038",
+    "company": "Salt Security",
+    "companyDomain": "salt.security",
+    "role": "Associate Solutions Architect",
+    "applyUrl": "https://go.landed.jobs/3a6t9dz",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "entry",
+    "skills": [
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "Kubernetes"
+    ],
+    "posted": "2026-10-13T20:42:58.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.4B valuation",
       "Series D"
     ]
   },
   {
-    "dedupeKey": "job:aa87812e-e7b8-4058-82d1-e4b0c2e8ec8e",
-    "companyId": "company_cedd88e875a65fcc20b493a603b501ad",
-    "company": "Okta",
-    "companyDomain": "okta.com",
-    "role": "Senior Manager, Solutions Engineering, SLED",
-    "applyUrl": "https://go.landed.jobs/upi4z0f",
+    "dedupeKey": "job:44748019-a396-4793-94b7-680c404e247c",
+    "companyId": "company_64951677b8823bdbd259bd9fa2067244",
+    "company": "Altana",
+    "companyDomain": "altana.ai",
+    "role": "Senior Sales Engineer, Logistics",
+    "applyUrl": "https://go.landed.jobs/xxayyvo",
+    "location": "Brooklyn, NY · Washington, D.C., DC",
+    "locations": [
+      "Brooklyn, NY",
+      "Washington, D.C., DC"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "presentation skills",
+      "ABI",
+      "CargoWise",
+      "NetCHB",
+      "HTS classification"
+    ],
+    "posted": "2026-10-13T18:53:57.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:2ac0da65-09a6-4bcd-b866-2364b8d8e792",
+    "companyId": "company_8826f8fd98e005e64734492eb466c533",
+    "company": "Tanium",
+    "companyDomain": "tanium.com",
+    "role": "Senior Solution Engineer- SLED Northeast",
+    "applyUrl": "https://go.landed.jobs/8szk8pr",
     "location": "🌐 Remote (US)",
     "locations": [
-      "Bellevue, WA",
-      "Chicago, IL",
-      "Washington, D.C., DC",
       "US"
     ],
     "remote": "remote",
@@ -5698,77 +6017,51 @@
     "family": "sales_business_development",
     "level": "senior",
     "skills": [
-      "MEDDPICC",
-      "Value/Outcome based selling"
+      "pre-sales discovery meetings",
+      "analysis of customers' current technology and architecture",
+      "development and presentation of appropriate Tanium solutions",
+      "deep-dive technical discussions",
+      "technical response to RFP/RFI",
+      "cooperative purchasing vehicles"
     ],
-    "posted": "2026-09-17T19:16:23.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T17:44:21.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Security 50",
-      "$24.7B valuation"
+      "$9B valuation"
     ]
   },
   {
-    "dedupeKey": "job:90bd536c-3d31-4918-9c4c-a8538f07bf6a",
-    "companyId": "company_cedd88e875a65fcc20b493a603b501ad",
-    "company": "Okta",
-    "companyDomain": "okta.com",
-    "role": "Senior Solutions Engineer, Okta",
-    "applyUrl": "https://go.landed.jobs/bmdocs1",
-    "location": "Chicago, IL",
+    "dedupeKey": "job:e95235ff-e8d6-40d5-8d55-2cd15bc8f0ae",
+    "companyId": "company_b29ca0e6ed2a0e93769db7965af87f05",
+    "company": "TalkDesk",
+    "companyDomain": "talkdesk.com",
+    "role": "Associate Solutions Engineer - Mixed Industries (West)",
+    "applyUrl": "https://go.landed.jobs/ikhtuur",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "Chicago, IL"
+      "US"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "developer_relations_solutions",
-    "level": "senior",
+    "level": "",
     "skills": [
-      "AI agents",
-      "enterprise deals"
+      "Go"
     ],
-    "posted": "2026-09-17T17:33:13.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T17:25:13.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Security 50",
-      "$24.7B valuation"
+      "$10B valuation",
+      "Series D"
     ]
   },
   {
-    "dedupeKey": "job:dc334b0e-09ef-461c-a911-dec549a0fca1",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Applied AI Architect, Retail",
-    "applyUrl": "https://go.landed.jobs/xuw7bif",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "ChatGPT Enterprise",
-      "OpenAI API",
-      "Codex",
-      "agentic AI solutions"
-    ],
-    "posted": "2026-09-17T15:32:18.866Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:c94566ee-0dff-4d62-ada6-55ccb3eb713c",
-    "companyId": "company_3139e4ae9e960ef3f01c63f372765bf7",
-    "company": "Collibra",
-    "companyDomain": "collibra.com",
-    "role": "CPS Solution Architect",
-    "applyUrl": "https://go.landed.jobs/nj59lq0",
+    "dedupeKey": "job:c3404538-c3fc-40c5-9471-cf87b1dfc2e2",
+    "companyId": "company_e49bea78acf14f5d1cc797297d3e2be4",
+    "company": "Everpure",
+    "companyDomain": "everpuredata.com",
+    "role": "Consulting National Partner Technical Manager",
+    "applyUrl": "https://go.landed.jobs/sx1lrc6",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -5778,45 +6071,1010 @@
     "family": "developer_relations_solutions",
     "level": "senior",
     "skills": [
-      "cloud platforms, network-based API integration (REST/JSON), and deployment automation",
-      "AWS/Azure, Kubernetes, infrastructure and platform",
-      "big data technologies such as Spark, and Hadoop",
-      "Data Quality, Data Pipelines, Data Orchestration, and/or Job Control tools",
-      "leveraging APIs via Java, Python, or similar scripting language",
-      "data warehousing, ETL, data integration",
-      "developing functional and technical specifications",
-      "Collibra or comparable technologies",
-      "Linux CLI proficiency",
-      "enterprise security solutions such as LDAP or Kerberos"
+      "enterprise storage",
+      "networking",
+      "systems solutions"
     ],
-    "posted": "2026-09-17T14:34:25.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T17:11:08.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Remote 200",
-      "$5.3B valuation"
+      "$25.6B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:0d5f22c8-19d6-42f7-90de-0491fa49fd89",
-    "companyId": "company_1a1f1762241d4347f22ce5defa6ebcc5",
-    "company": "Applied Materials",
-    "companyDomain": "appliedmaterials.com",
-    "role": "Application Engineer III (E3)",
-    "applyUrl": "https://go.landed.jobs/dr51si7",
-    "location": "Santa Clara, CA",
+    "dedupeKey": "job:501313a3-90e4-449e-8f03-dcffba27eed9",
+    "companyId": "company_10e3b0d05fdf90facbf943b783cb8264",
+    "company": "Fivetran",
+    "companyDomain": "fivetran.com",
+    "role": "Partner Solutions Architect",
+    "applyUrl": "https://go.landed.jobs/cb4y266",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "Santa Clara, CA"
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "Databricks"
+    ],
+    "posted": "2026-10-13T16:47:14.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.6B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7265aa5f-d128-4da8-9ea3-70d3e46d5d0c",
+    "companyId": "company_e1c1b81d668b8bb7fdb8fcc01dcb8056",
+    "company": "Planet",
+    "companyDomain": "planet.com",
+    "role": "Solutions Architect I, Professional Services",
+    "applyUrl": "https://go.landed.jobs/zczy94i",
+    "location": "Arlington, VA",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "AWS",
+      "Azure"
+    ],
+    "posted": "2026-10-13T15:40:08.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:e759ff95-30b7-494d-b44e-fe1e440a3ac8",
+    "companyId": "company_dba7642518104e7839b8d45ad39d6c6d",
+    "company": "Lumafield",
+    "companyDomain": "lumafield.com",
+    "role": "Solutions Architect",
+    "applyUrl": "https://go.landed.jobs/3b1zykc",
+    "location": "Cambridge, MA · San Francisco, CA",
+    "locations": [
+      "Cambridge, MA",
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "Triton",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-10-13T14:58:26.491Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:8b29929b-0632-4014-9724-a6723fbdfeb3",
+    "companyId": "company_767cdf43fbdc86f9b27ce71007c9f1e6",
+    "company": "AcuityMD",
+    "companyDomain": "acuitymd.com",
+    "role": "Lead Solutions Engineer, Strategic",
+    "applyUrl": "https://go.landed.jobs/ubwlz57",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-13T14:11:26.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$960M valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:a2a60a83-8448-4b31-872d-277cd1ca4782",
+    "companyId": "company_e7be5e4ede08c17d09cd56d03799f8bf",
+    "company": "Wise",
+    "companyDomain": "wise.com",
+    "role": "Senior Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/3bzy1e8",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB"
+    ],
+    "posted": "2026-10-13T03:26:03.480Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$12.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:d18ad644-5dd0-4b5e-8a88-e0e3243c3bbc",
+    "companyId": "company_e7be5e4ede08c17d09cd56d03799f8bf",
+    "company": "Wise",
+    "companyDomain": "wise.com",
+    "role": "Presales Consultant",
+    "applyUrl": "https://go.landed.jobs/p1jbimr",
+    "location": "Austin, TX",
+    "locations": [
+      "Austin, TX"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "REST APIs"
+    ],
+    "posted": "2026-10-13T03:13:14.393Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$12.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:10839797-b09e-461c-a3f4-429359d5404d",
+    "companyId": "company_fb66475d92f3c0e260906336ce275eb7",
+    "company": "BioNTech",
+    "companyDomain": "biontech.com",
+    "role": "Field Applications Scientist, Immunoassay Specialist (Midwest)",
+    "applyUrl": "https://go.landed.jobs/kkp7r40",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Minnesota, MN",
+      "Texas, TX",
+      "Chicago, IL"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "immunoassay analysis instrumentation and assays",
+      "Simple Plex Ella and Luminex platforms",
+      "pre- and post-sales assay development and technical support"
+    ],
+    "posted": "2026-10-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$24.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:c15d3d70-68c8-48c1-80ea-beb4a5c30010",
+    "companyId": "company_c16fac952b7d6b36fbb53d5f5e61abf3",
+    "company": "Cohesity",
+    "companyDomain": "cohesity.com",
+    "role": "Senior Sales Engineer (Enterprise Accounts)",
+    "applyUrl": "https://go.landed.jobs/kb0upt4",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Pennsylvania, PA",
+      "Ohio, OH"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Enterprise Hardware",
+      "Cloud Platforms",
+      "IaaS",
+      "PaaS",
+      "Virtual Infrastructure software"
+    ],
+    "posted": "2026-10-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2f696cc5-cd2b-4635-bf39-d5a0375b513b",
+    "companyId": "company_9fb0402a72691f58285f6454a7b8d7e6",
+    "company": "AgentMail (YC S25)",
+    "companyDomain": "agentmail.to",
+    "role": "Developer Success Engineer",
+    "applyUrl": "https://go.landed.jobs/tqcgp9f",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "mid",
+    "skills": [
+      "AI agents"
+    ],
+    "posted": "2026-10-12T22:56:52.673Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S25",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:e8ce4d3d-fd26-4465-9483-6002929708c5",
+    "companyId": "company_26b9cccfe247fdbad310d5b6fa03f8f0",
+    "company": "Docker, Inc",
+    "companyDomain": "docker.com",
+    "role": "Director, Partner Solution Engineer",
+    "applyUrl": "https://go.landed.jobs/fbppeop",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Canada",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "director",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "software supply chain security",
+      "DevOps",
+      "DevSecOps",
+      "SBOMs",
+      "image scanning",
+      "secure delivery pipelines",
+      "coding assistants",
+      "AI integrations",
+      "AI agent development"
+    ],
+    "posted": "2026-10-12T21:16:41.644Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.1B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:63cc3f57-be86-4838-969a-1f172965a163",
+    "companyId": "company_f4d4a9dafbd4215787de537359fecd42",
+    "company": "Appian",
+    "companyDomain": "appian.com",
+    "role": "Senior Manager, Solutions Consulting",
+    "applyUrl": "https://go.landed.jobs/3it2s15",
+    "location": "McLean, VA",
+    "locations": [
+      "McLean, VA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Salesforce or ServiceNow"
+    ],
+    "posted": "2026-10-12T20:37:03.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:43e4a939-ed36-42a7-b3e1-ec275247a04b",
+    "companyId": "company_597f690afabbcb94be5e3e85ec62b1bd",
+    "company": "Gen",
+    "companyDomain": "gendigital.com",
+    "role": "Senior Solutions Consultant",
+    "applyUrl": "https://go.landed.jobs/m01tl1b",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "technical solutioning",
+      "consultative skill",
+      "discovery",
+      "design",
+      "demonstrations",
+      "scoping practices",
+      "engagement models",
+      "templates",
+      "reusable materials",
+      "mentoring",
+      "scoping frameworks",
+      "playbooks"
+    ],
+    "posted": "2026-10-12T17:20:27.257Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$16.4B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:75c4754b-c37f-4ac8-8090-a7d344052369",
+    "companyId": "company_597f690afabbcb94be5e3e85ec62b1bd",
+    "company": "Gen",
+    "companyDomain": "gendigital.com",
+    "role": "Senior Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/fmcrvmh",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-12T17:20:04.979Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$16.4B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:5c6bf413-5a6b-4af7-b470-102704cc85df",
+    "companyId": "company_860d14b55a7d54ba235f84fd69fff124",
+    "company": "Veeam Software",
+    "companyDomain": "veeam.com",
+    "role": "Director, Partner Solutions Engineering — Data & AI Security",
+    "applyUrl": "https://go.landed.jobs/9lwf61i",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "director",
+    "skills": [
+      "solutions engineering",
+      "sales engineering",
+      "solution architecture",
+      "technical consulting",
+      "DSPM",
+      "data discovery and classification",
+      "AI governance",
+      "privacy management",
+      "GRC platforms"
+    ],
+    "posted": "2026-10-12T14:49:19.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$15B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e1a205fc-0c8d-46a8-902d-4d2acb45e39c",
+    "companyId": "company_86131c8ce6a5ebdc86daa4ed895310d2",
+    "company": "ConcertAI",
+    "companyDomain": "concertai.com",
+    "role": "Solutions Consultant, Commercial Data",
+    "applyUrl": "https://go.landed.jobs/uvm7fp2",
+    "location": "Plymouth Meeting, PA",
+    "locations": [
+      "Plymouth Meeting, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "solution architecture",
+      "data flows",
+      "integration requirements",
+      "Data Foundry",
+      "Maestro configuration",
+      "Cadence applications",
+      "business rules",
+      "workflows",
+      "analytics",
+      "customer discovery",
+      "third-party data vendors",
+      "implementation consulting"
+    ],
+    "posted": "2026-10-12T14:48:17.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.9B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:1075bc97-c2d6-407f-8d8d-168514e4dae0",
+    "companyId": "company_8449deaf698f084ef9e527b134e4765d",
+    "company": "Vega",
+    "companyDomain": "vega.io",
+    "role": "Regional Sales Engineer, Central",
+    "applyUrl": "https://go.landed.jobs/5tdlf6n",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Sales Engineering",
+      "Solutions Engineering",
+      "Pre-Sales",
+      "SIEM platforms"
+    ],
+    "posted": "2026-10-12T07:47:48.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$700M valuation",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:11a14919-a20c-4a33-8442-119d25d6a3b3",
+    "companyId": "company_e7be5e4ede08c17d09cd56d03799f8bf",
+    "company": "Wise",
+    "companyDomain": "wise.com",
+    "role": "Sr Technical Account Manager - North America",
+    "applyUrl": "https://go.landed.jobs/z8wl68y",
+    "location": "Austin, TX",
+    "locations": [
+      "Austin, TX"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "API-based integrations",
+      "SQL",
+      "Kibana",
+      "Looker",
+      "Prometheus",
+      "coding or scripting",
+      "database querying"
+    ],
+    "posted": "2026-10-12T04:39:50.411Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$12.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:15baabeb-f9c3-44ba-b245-84afbd6ef116",
+    "companyId": "company_c16fac952b7d6b36fbb53d5f5e61abf3",
+    "company": "Cohesity",
+    "companyDomain": "cohesity.com",
+    "role": "Senior Channel Sales Engineer | NY or Boston Area",
+    "applyUrl": "https://go.landed.jobs/y6pq4p7",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "backup",
+      "recovery",
+      "data protection",
+      "storage",
+      "cyber resilience"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:208b6bd9-6425-44d7-b0af-53a7eea8c8be",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Senior Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/mq8lpr9",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY",
+      "Iselin, NJ"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:402ea89d-afe6-4f4a-abe6-d4a080d6801b",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Solutions Engineer-US Commercial, Los Angeles",
+    "applyUrl": "https://go.landed.jobs/on2bur0",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Glendale, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:605430b2-0331-4123-bdc1-3fb6b91ae780",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Solutions Engineer - GES - Cleveland/Columbus",
+    "applyUrl": "https://go.landed.jobs/2ytzwlr",
+    "location": "Richfield, OH",
+    "locations": [
+      "Richfield, OH"
     ],
     "remote": "",
     "region": "us",
     "family": "developer_relations_solutions",
     "level": "",
     "skills": [],
-    "posted": "2026-09-17T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$403B valuation"
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:726119fe-7461-403d-ae57-ef25220f2dc0",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/fh3r0jd",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Bellevue, WA",
+      "Topeka, KS"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:96a117c5-5cd3-4d7f-b139-a83d4279cc00",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Presales Systems Engineer - HPE Networking - K12/Local - Oregon",
+    "applyUrl": "https://go.landed.jobs/csnkc6a",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Portland, OR"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Strong communication, presentation, and problem-solving abilities"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:9b521e4f-088a-4739-8677-af0422ede47e",
+    "companyId": "company_c8a2f0acf71895c41676bc0c39751c0d",
+    "company": "Trend Micro",
+    "companyDomain": "trendmicro.com",
+    "role": "Sr. Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/fs6qqn9",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.4B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a036c7d5-b0aa-434e-92ac-2c19d67e52c6",
+    "companyId": "company_20751c6afb30b56e8243e199076331ba",
+    "company": "CDW",
+    "companyDomain": "cdw.com",
+    "role": "Enterprise Strategist- Services Engagement",
+    "applyUrl": "https://go.landed.jobs/idl60yu",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "IT architecture and engineering",
+      "designing multi-practice solutions",
+      "mentorship",
+      "emerging technologies",
+      "consulting"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$18.9B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a72d6d7c-a7f8-4792-ab39-4f2ac624f193",
+    "companyId": "company_da51505795a3f650af3f7423264a3526",
+    "company": "Motorola Solutions",
+    "companyDomain": "motorolasolutions.com",
+    "role": "Senior Solutions Architect - US Remote",
+    "applyUrl": "https://go.landed.jobs/a7zyuj7",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:dcc14624-cd87-4df1-9645-653178f38467",
+    "companyId": "company_c8a2f0acf71895c41676bc0c39751c0d",
+    "company": "Trend Micro",
+    "companyDomain": "trendmicro.com",
+    "role": "Sr. Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/518j3yv",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.4B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:df0f1acc-dabb-4987-bdb1-73c5ed9ad32b",
+    "companyId": "company_271194ed05c052b9b98a6be596010fe4",
+    "company": "SUSE",
+    "companyDomain": "suse.com",
+    "role": "Solution Architect - Central",
+    "applyUrl": "https://go.landed.jobs/eqdr7l8",
+    "location": "New Jersey, NJ +4",
+    "locations": [
+      "New Jersey, NJ",
+      "Pennsylvania, PA",
+      "New York City, NY",
+      "Connecticut, CT",
+      "Massachusetts, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "Linux systems",
+      "open-source software",
+      "cloud computing",
+      "Kubernetes",
+      "technical demonstrations",
+      "whitepapers"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e4007fa2-353b-47b1-a281-d3583db61a1c",
+    "companyId": "company_20751c6afb30b56e8243e199076331ba",
+    "company": "CDW",
+    "companyDomain": "cdw.com",
+    "role": "Senior Solution Architect – HPE",
+    "applyUrl": "https://go.landed.jobs/ttw7b3i",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "architecture",
+      "Hybrid Infrastructure",
+      "technical pre-sales",
+      "partner technical certifications",
+      "communication skills"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$18.9B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:e77d66c2-9e22-4a23-9c96-1ce92227c3b8",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Solutions Engineer - SLED (Northern California)",
+    "applyUrl": "https://go.landed.jobs/nnmodv7",
+    "location": "San Jose, CA · San Francisco, CA",
+    "locations": [
+      "San Jose, CA",
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [
+      "AWS"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:e962cee9-7a9e-4a01-9764-934a005b49b8",
+    "companyId": "company_62a7cb53315214066d11867128751111",
+    "company": "Qnity",
+    "companyDomain": "qnityelectronics.com",
+    "role": "Field Application Engineer -- South Region",
+    "applyUrl": "https://go.landed.jobs/aobb5h2",
+    "location": "Chesterfield, MO · Pasadena, TX",
+    "locations": [
+      "Chesterfield, MO",
+      "Pasadena, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "solid-modeling software, such as Solidworks",
+      "mechanical/thermal/electrical or multiphysics software such as Abaqus, HFSS, Icepak, or COMSOL",
+      "Finite Element Analysis",
+      "Finite Difference numerical modeling techniques",
+      "thermal management",
+      "EMI management",
+      "microwave absorbers"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$27.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:f5d0cc67-abfc-4e65-a407-cf531b00b4f6",
+    "companyId": "company_c16fac952b7d6b36fbb53d5f5e61abf3",
+    "company": "Cohesity",
+    "companyDomain": "cohesity.com",
+    "role": "Senior Sales Engineer (Acquisitions) - East Region",
+    "applyUrl": "https://go.landed.jobs/i547je2",
+    "location": "US · North Carolina, NC",
+    "locations": [
+      "US",
+      "North Carolina, NC"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "Enterprise Hardware or Software, Cloud Platforms, IaaS, PaaS, or Virtual Infrastructure software",
+      "presentation skills",
+      "written, verbal, and interpersonal communication skills"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:fd79c4ce-5230-4331-b93d-d82a4b930d8b",
+    "companyId": "company_8d5ce2aab69ca7668ec4a7cb086f7a5c",
+    "company": "Sprinklr",
+    "companyDomain": "sprinklr.com",
+    "role": "Sr. Solutions Consultant",
+    "applyUrl": "https://go.landed.jobs/otb4bkn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Massachusetts, MA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "marketing technology",
+      "customer experience",
+      "digital transformation",
+      "CRM",
+      "Marketing Automation",
+      "Social Media Management",
+      "Business Intelligence",
+      "CCaaS"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:0009955c-c640-4de0-a4a1-e265f282de53",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Channel Presales Technical Architect - Virginia",
+    "applyUrl": "https://go.landed.jobs/bi7i3ad",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Reston, VA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "consultative selling",
+      "active listening",
+      "whiteboarding",
+      "storytelling",
+      "project management",
+      "analytical"
+    ],
+    "posted": "2026-10-11T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:8d705e81-99df-430a-9ba9-c7eebf5a2a2a",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Channel Presales Technical Architect - Massachusetts",
+    "applyUrl": "https://go.landed.jobs/t2z0ukp",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "consultative selling skills",
+      "project management",
+      "analytical",
+      "problem-solving skills"
+    ],
+    "posted": "2026-10-11T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:f336be5a-17b2-4655-b75b-d6bace63718f",
+    "companyId": "company_9a07434be71a9928b313a764639073c9",
+    "company": "Hewlett Packard Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Channel Presales Technical Architect - Minnesota",
+    "applyUrl": "https://go.landed.jobs/5wcv9qj",
+    "location": "Bloomington, MN · US",
+    "locations": [
+      "Bloomington, MN",
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "HPE storage",
+      "consultative selling",
+      "project management"
+    ],
+    "posted": "2026-10-11T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$74.2B valuation",
+      "Public"
     ]
   },
   {
@@ -6021,59 +7279,6 @@
     ]
   },
   {
-    "dedupeKey": "job:060ae60b-a5b3-430f-b697-6c6d04ad74c1",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Solutions Development Architect",
-    "applyUrl": "https://go.landed.jobs/5oqz85o",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Seattle, WA",
-      "Boulder, CO",
-      "Colorado Springs, CO",
-      "Little Rock, AR",
-      "Portland, OR"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "RFI/RFP processes"
-    ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:0d2a3181-ed35-4a23-b6d1-dc2d301c2b58",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Solutions Development Architect",
-    "applyUrl": "https://go.landed.jobs/3yirz6o",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "consultative pre-sales architecture",
-      "RFI/RFP processes"
-    ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:1c5f9db5-0025-400c-b06e-23ac1915fefb",
     "companyId": "company_9a07434be71a9928b313a764639073c9",
     "company": "Hewlett Packard Enterprise",
@@ -6157,31 +7362,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$28.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4a59d07f-95b0-4fd5-9d5e-4cec206fb75b",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Solutions Development Architect",
-    "applyUrl": "https://go.landed.jobs/gq6q4pt",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Dallas, TX",
-      "Houston, TX"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "RFI/RFP processes"
-    ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -6431,29 +7611,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$61.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:bd26c2a7-6f22-4589-b93c-b0b81e55c293",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Solutions Engineer - SLED - Austin, TX",
-    "applyUrl": "https://go.landed.jobs/n208cd5",
-    "location": "Austin, TX · Oklahoma City, OK",
-    "locations": [
-      "Austin, TX",
-      "Oklahoma City, OK"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -7025,54 +8182,6 @@
     ]
   },
   {
-    "dedupeKey": "job:559b827d-05b2-4a93-9785-284d63bb795c",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Industry Solutions Engineer",
-    "applyUrl": "https://go.landed.jobs/tk2wc9f",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "Georgia",
-      "Austin, TX",
-      "Boise, ID",
-      "Boston, MA",
-      "Chicago, IL",
-      "Clayton, MO",
-      "Dallas, TX",
-      "Denver, CO",
-      "Frankfort, KY",
-      "Iselin, NJ",
-      "Miami, FL",
-      "Minneapolis, MN",
-      "Nashville, TN",
-      "Palo Alto, CA",
-      "Phoenix, AZ",
-      "Portland, OR",
-      "Reno, NV",
-      "Reston, VA",
-      "Rockville, MD",
-      "Salt Lake City, UT",
-      "San Francisco, CA",
-      "Seattle, WA",
-      "Topeka, KS"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "go",
-      "observability"
-    ],
-    "posted": "2026-10-08T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:d79e9037-b4be-43d7-a402-2273d31e8ebd",
     "companyId": "company_4d65c261b63d474edf7179ca1d0d918f",
     "company": "LaunchDarkly",
@@ -7399,34 +8508,6 @@
     ]
   },
   {
-    "dedupeKey": "job:15baabeb-f9c3-44ba-b245-84afbd6ef116",
-    "companyId": "company_c16fac952b7d6b36fbb53d5f5e61abf3",
-    "company": "Cohesity",
-    "companyDomain": "cohesity.com",
-    "role": "Senior Channel Sales Engineer",
-    "applyUrl": "https://go.landed.jobs/y6pq4p7",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "backup",
-      "recovery",
-      "data protection",
-      "storage",
-      "cyber resilience"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.7B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:772fe258-a479-42ac-bb0e-80d1c8e555af",
     "companyId": "company_afeaace04b48c29218ee873b4fecc677",
     "company": "Booz Allen Hamilton",
@@ -7483,42 +8564,6 @@
     ]
   },
   {
-    "dedupeKey": "job:8a7ea886-21c2-43fc-8dda-f21687ec6259",
-    "companyId": "company_9a07434be71a9928b313a764639073c9",
-    "company": "Hewlett Packard Enterprise",
-    "companyDomain": "hpe.com",
-    "role": "Federal Chief Technologist Capture Presales",
-    "applyUrl": "https://go.landed.jobs/qhgoyx1",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "director",
-    "skills": [
-      "presales solution architect experience",
-      "creating RFP responses",
-      "solution configurations and overall architecture design",
-      "creating, managing, and positioning demos and proofs-of-concept (POC)",
-      "consultative and value selling skills",
-      "white boarding",
-      "storytelling",
-      "objection-handling",
-      "closing skills",
-      "resource management skills",
-      "project and time management skills",
-      "analytical and problem-solving skills"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$74.2B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:9001b1c7-71d8-4aca-8db6-842f956ddf95",
     "companyId": "company_676f9ec063277547f7ea3f9ce1ce5a51",
     "company": "Flutter Entertainment",
@@ -7538,42 +8583,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$18.1B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:9695518c-0f56-4fe6-99a4-16e8dd9246bc",
-    "companyId": "company_9a07434be71a9928b313a764639073c9",
-    "company": "Hewlett Packard Enterprise",
-    "companyDomain": "hpe.com",
-    "role": "Senior Presales Systems Engineer",
-    "applyUrl": "https://go.landed.jobs/aaryfvm",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "WAN",
-      "Data Center",
-      "Security",
-      "Cloud technology solutions",
-      "Juniper product line",
-      "EVPN/VXLAN",
-      "MPLS",
-      "network security",
-      "Python",
-      "Ansible",
-      "AWS",
-      "Azure"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$74.2B valuation",
       "Public"
     ]
   },
@@ -7606,38 +8615,66 @@
     ]
   },
   {
-    "dedupeKey": "job:bdee2323-3d07-4492-bd77-f1df7332fec4",
-    "companyId": "company_9a07434be71a9928b313a764639073c9",
-    "company": "Hewlett Packard Enterprise",
-    "companyDomain": "hpe.com",
-    "role": "Enterprise Architect - SLED Texas",
-    "applyUrl": "https://go.landed.jobs/d3twi9e",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:c6f265a3-2f45-46ad-94c9-6c2b15e6d3cc",
+    "companyId": "company_4353e4e611be5be0f7e354d9b1248871",
+    "company": "CarGurus",
+    "companyDomain": "cargurus.com",
+    "role": "Senior Enterprise Account Executive, Data Licensing",
+    "applyUrl": "https://go.landed.jobs/ydl54n6",
+    "location": "Boston, MA",
     "locations": [
-      "US",
-      "Dallas, TX",
-      "Spring, TX",
-      "Frisco, TX"
+      "Boston, MA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "us",
     "family": "sales_business_development",
-    "level": "senior",
+    "level": "",
     "skills": [
-      "solution configurations and overall architecture design",
-      "creating, managing, and positioning demos and proofs-of-concept (POC)",
-      "consultative and value selling skills",
-      "white boarding",
-      "storytelling",
-      "objection-handling",
-      "closing skills",
-      "project and time management skills",
-      "analytical and problem-solving skills"
+      "Snowflake Marketplace",
+      "Snowflake data shares",
+      "data clean rooms",
+      "API-delivered",
+      "Gen AI"
     ],
     "posted": "2026-10-07T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "$74.2B valuation",
+      "$3.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:c8584bff-b7d5-4749-b90f-2eeaf26ba577",
+    "companyId": "company_c0df3da73ab6a4f316b6352d5ded4778",
+    "company": "HP",
+    "companyDomain": "hp.com",
+    "role": "Mid Atlantic Technical Consultant Manager",
+    "applyUrl": "https://go.landed.jobs/410skau",
+    "location": "Georgia · US",
+    "locations": [
+      "Georgia",
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "sales_business_development",
+    "level": "senior",
+    "skills": [
+      "SIEM",
+      "SOAR",
+      "EDR",
+      "virtualization tools",
+      "consultative selling",
+      "negotiation",
+      "interpersonal skills",
+      "Analytical and critical thinking",
+      "budget management",
+      "financial forecasting"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$24.9B valuation",
       "Public"
     ]
   },
@@ -7697,1043 +8734,6 @@
     "companyTier": "B",
     "companyBadges": [
       "YC W19"
-    ]
-  },
-  {
-    "dedupeKey": "job:bcd38841-6b96-486e-91f9-3998589cbff2",
-    "companyId": "company_10e3b0d05fdf90facbf943b783cb8264",
-    "company": "Fivetran",
-    "companyDomain": "fivetran.com",
-    "role": "Senior Solutions Architect, Enterprise",
-    "applyUrl": "https://go.landed.jobs/jq029wk",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "dbt",
-      "Snowflake",
-      "BigQuery",
-      "Databricks"
-    ],
-    "posted": "2026-10-06T21:21:54.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.6B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:f3dbb02e-e816-4a74-a08b-fbe95f8f3eb4",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Advisory Solution Consultant (Armis/Veza)",
-    "applyUrl": "https://go.landed.jobs/ljgnq8c",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Washington, D.C., DC"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "AI-powered tools",
-      "automating workflows",
-      "analyzing AI-driven insights"
-    ],
-    "posted": "2026-10-06T19:26:12.871Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:c2053e23-df7d-471c-816f-436a0fa2823f",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Sr Advisory Solution Consultant - Federal (Armis/Veza)",
-    "applyUrl": "https://go.landed.jobs/26jzb8q",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "communication skills"
-    ],
-    "posted": "2026-10-06T19:24:18.422Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:562a4919-0c6f-48e9-a8f4-a50ac577a77e",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Advisory Solution Consultant, SLED (Armis/Veza)",
-    "applyUrl": "https://go.landed.jobs/e2of3ig",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Denver, CO"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "verbal and written communication skills"
-    ],
-    "posted": "2026-10-06T19:23:44.815Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5e449bc6-968a-472d-9c45-8a4d9fd32bb9",
-    "companyId": "company_54fa32e30508136031070007f42317d0",
-    "company": "SentinelOne",
-    "companyDomain": "sentinelone.com",
-    "role": "Staff Solutions Architect (Midwest/Great Lakes)",
-    "applyUrl": "https://go.landed.jobs/fy1w1pt",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "staff",
-    "skills": [
-      "penetration testing"
-    ],
-    "posted": "2026-10-06T17:46:31.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:1075bc97-c2d6-407f-8d8d-168514e4dae0",
-    "companyId": "company_8449deaf698f084ef9e527b134e4765d",
-    "company": "Vega",
-    "companyDomain": "vega.io",
-    "role": "Regional Sales Engineer, Central",
-    "applyUrl": "https://go.landed.jobs/5tdlf6n",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "Sales Engineering",
-      "Solutions Engineering",
-      "Pre-Sales",
-      "SIEM platforms"
-    ],
-    "posted": "2026-10-06T15:25:54.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$700M valuation",
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:2c8a54c2-8cac-4869-8e30-8fbb3f75c01e",
-    "companyId": "company_6743ce47f7476b22541ab7b119d26b19",
-    "company": "Feedzai",
-    "companyDomain": "feedzai.com",
-    "role": "Senior Solutions Consultant, North America",
-    "applyUrl": "https://go.landed.jobs/0bd9cf6",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "product demonstrations",
-      "technical sales discussions",
-      "solution design",
-      "RFP proposals"
-    ],
-    "posted": "2026-10-06T09:36:53.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2B valuation",
-      "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:2eebe269-81fc-4d5f-b163-a195ced38cc4",
-    "companyId": "company_0d97a44e579374045c03c74ab2a69a7a",
-    "company": "Global Payments",
-    "companyDomain": "globalpayments.com",
-    "role": "Sr Solution Engineer",
-    "applyUrl": "https://go.landed.jobs/r5o4n5v",
-    "location": "Cincinnati, OH",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "Snowflake",
-      "AWS",
-      "Databricks",
-      "Google Cloud Platform",
-      "SFTP delivery",
-      "privacy-enhancing clean-room technologies"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$23B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:32a3df06-16ad-4f82-ba65-2b472ffb473a",
-    "companyId": "company_ad4025c634174b7fd5bb39b779dc8b19",
-    "company": "Zebra Technologies",
-    "companyDomain": "zebra.com",
-    "role": "Senior Sales Engineer - Healthcare (Remote South Atlantic)",
-    "applyUrl": "https://go.landed.jobs/11cvyv1",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "Solution Selling",
-      "communication and interpersonal skills",
-      "mobile client platforms"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$14B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6abe542c-478f-43b5-8063-989183bff4e3",
-    "companyId": "company_0d41c92e2a48b017251dd17874b55454",
-    "company": "Wolters Kluwer",
-    "companyDomain": "wolterskluwer.com",
-    "role": "Solutions Consultant",
-    "applyUrl": "https://go.landed.jobs/emihor8",
-    "location": "Wichita, KS +2",
-    "locations": [
-      "Wichita, KS",
-      "Coppell, TX",
-      "Kennesaw, GA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "CCH Integrator",
-      "reporting and analytics",
-      "audit packs",
-      "export formats",
-      "Agile",
-      "Hybrid methodologies",
-      "change management",
-      "adoption planning",
-      "ERP/GL systems",
-      "data integration"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$17.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:9f3c9e36-441e-4505-a505-54b728024f48",
-    "companyId": "company_2b00db9c2e2c3d6441160b132c1d4081",
-    "company": "Cadence",
-    "companyDomain": "cadence.com",
-    "role": "CST Application Engineer Intern - Silicon",
-    "applyUrl": "https://go.landed.jobs/oh3w9ba",
-    "location": "San Jose, CA",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "intern",
-    "skills": [
-      "electronic design automation (EDA)",
-      "foundational silicon, package or board design",
-      "AI use cases"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$93.6B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:af9575e5-2619-455d-bee0-ffe97e661ba1",
-    "companyId": "company_b2f46e334401137de06bb834067bdddc",
-    "company": "NXP Semiconductors",
-    "companyDomain": "nxp.com",
-    "role": "Field Applications Engineer (FAE) Intern - Summer 2027",
-    "applyUrl": "https://go.landed.jobs/jqmiapp",
-    "location": "Austin, TX +2",
-    "locations": [
-      "Austin, TX",
-      "Novi, MI",
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "intern",
-    "skills": [
-      "embedded systems",
-      "lab validation",
-      "C",
-      "C++",
-      "Python",
-      "microcontrollers",
-      "MPUs",
-      "FPGAs",
-      "ARM-based systems",
-      "RTOS",
-      "embedded Linux"
-    ],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$57.1B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:e07ce56a-b852-4408-ba61-564a7d4319b7",
-    "companyId": "company_cf4ccce901a81a0405870932fc7e6092",
-    "company": "Logitech",
-    "companyDomain": "logitech.com",
-    "role": "Solutions Engineer",
-    "applyUrl": "https://go.landed.jobs/9jmosoh",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-06T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$17.2B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:0a4e2755-42f7-40c5-b35a-61a3f1621936",
-    "companyId": "company_515780ce1652d9e5e97097bf665c1536",
-    "company": "Vitalize",
-    "companyDomain": "vitalize.care",
-    "role": "Enterprise Solutions",
-    "applyUrl": "https://go.landed.jobs/z44iqod",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "ERP, WFM, HRIS, payroll, or adjacent enterprise platforms",
-      "APIs, data flows, integration architecture, middleware, SSO",
-      "health system IT environments, clinical systems, workforce operations, EHRs, or healthcare interoperability"
-    ],
-    "posted": "2026-10-05T23:59:46.277Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W23",
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:72476d35-7128-48ca-9944-c68ab281d062",
-    "companyId": "company_cbda575be3b47ecf1820206aad09399b",
-    "company": "Braze",
-    "companyDomain": "braze.com",
-    "role": "Sr. Solution Consultant, Financial Services",
-    "applyUrl": "https://go.landed.jobs/7v1ennu",
-    "location": "Austin, TX · Chicago, IL",
-    "locations": [
-      "Austin, TX",
-      "Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "Pre-sales Engineering",
-      "Technical Account Management",
-      "Customer Success",
-      "selling into accounts",
-      "Pre-sales Consulting",
-      "Sales Engineering"
-    ],
-    "posted": "2026-10-05T21:18:50.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:b2bfba9e-7ad0-47d7-971f-4163448a8f9b",
-    "companyId": "company_770fbb78e62f91e5fc45b235536f4b0e",
-    "company": "JumpCloud",
-    "companyDomain": "jumpcloud.com",
-    "role": "Sales Engineer - United States",
-    "applyUrl": "https://go.landed.jobs/b0khc2c",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Denver, CO"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "mid",
-    "skills": [
-      "Sales Engineering",
-      "identity and/or directory solutions",
-      "bash/Powershell",
-      "API integration",
-      "automation",
-      "direct and channel/partner sales cycles"
-    ],
-    "posted": "2026-10-05T21:13:50.159Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.6B valuation",
-      "Series F"
-    ]
-  },
-  {
-    "dedupeKey": "job:82c122c6-40da-4b2f-aa02-c76c84faaaba",
-    "companyId": "company_e49bea78acf14f5d1cc797297d3e2be4",
-    "company": "Everpure",
-    "companyDomain": "everpuredata.com",
-    "role": "Senior Pre-Sales Systems Engineer, Enterprise - Philadelphia",
-    "applyUrl": "https://go.landed.jobs/s0abo4r",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Philadelphia, PA",
-      "Pennsylvania, PA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "Linux",
-      "NFS file systems",
-      "SQL",
-      "Oracle"
-    ],
-    "posted": "2026-10-05T19:52:39.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$25.6B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:2440b628-9d4d-4aa3-92fa-1691112051ec",
-    "companyId": "company_b8a9dd9a255fc0da706ff51072b02ebd",
-    "company": "Metriport",
-    "companyDomain": "metriport.com",
-    "role": "Senior Solutions Engineer",
-    "applyUrl": "https://go.landed.jobs/yf9vq9c",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "TypeScript",
-      "js",
-      "React"
-    ],
-    "posted": "2026-10-05T17:58:16.145Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S22",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:46e866ec-83e4-4134-95bd-cf22dc168589",
-    "companyId": "company_d4a89b33b9b2a4ed791edde39641b177",
-    "company": "Trustpilot",
-    "companyDomain": "trustpilot.com",
-    "role": "Solutions Engineer",
-    "applyUrl": "https://go.landed.jobs/ilwlaag",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "JavaScript"
-    ],
-    "posted": "2026-10-05T15:58:16.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d1b8b942-2401-4b11-8555-1f5f8699780b",
-    "companyId": "company_8c77f85b9d175ba3ff7ce962fc3e70bb",
-    "company": "Bloomreach",
-    "companyDomain": "bloomreach.com",
-    "role": "Senior Technical Consultant, Partners",
-    "applyUrl": "https://go.landed.jobs/8xx0kxt",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "data imports, data transformations, and data transfers (API, SFTP)",
-      "Frontend coding experience (Javascript – jQuery, HTML, CSS)",
-      "Backend coding experience (node.js, Python, SQL, BigQuery)",
-      "Tag managers such Google Tag Manager and Tealium",
-      "search platform such as Endeca, Solr, Elasticsearch",
-      "building out marketing automation use cases and supporting email warmups"
-    ],
-    "posted": "2026-10-05T15:49:49.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.2B valuation",
-      "Series F"
-    ]
-  },
-  {
-    "dedupeKey": "job:7334373d-92f3-4050-a5e3-345b913caa5e",
-    "companyId": "company_7d9ab93f7293dc333e0cf8649439a233",
-    "company": "Yelp",
-    "companyDomain": "yelp.com",
-    "role": "Solutions Engineer, API Integration",
-    "applyUrl": "https://go.landed.jobs/uf5hx7r",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "Python",
-      "JavaScript"
-    ],
-    "posted": "2026-10-05T04:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.1B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:7f90b9da-12ae-447d-8f52-b946bbca18bb",
-    "companyId": "company_7d9ab93f7293dc333e0cf8649439a233",
-    "company": "Yelp",
-    "companyDomain": "yelp.com",
-    "role": "Solutions Engineer, API Integration",
-    "applyUrl": "https://go.landed.jobs/baje8vd",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "Python",
-      "JavaScript"
-    ],
-    "posted": "2026-10-05T04:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.1B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:0bb41ed6-8186-43a2-85b7-2f9f8466d12f",
-    "companyId": "company_55c75470e87717e08d6ee6ad5871cef1",
-    "company": "Automation Anywhere",
-    "companyDomain": "automationanywhere.com",
-    "role": "Sr. Sales Engineer",
-    "applyUrl": "https://go.landed.jobs/idl15vs",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "Agentic Process Automation",
-      "RPA",
-      "Generative AI",
-      "SaaS",
-      "cloud providers",
-      "virtualization options",
-      "orchestration standards",
-      "cognitive standards"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6.8B valuation",
-      "Late stage"
-    ]
-  },
-  {
-    "dedupeKey": "job:189c69e5-a73f-452a-b61c-a361c71b0ea9",
-    "companyId": "company_9a07434be71a9928b313a764639073c9",
-    "company": "Hewlett Packard Enterprise",
-    "companyDomain": "hpe.com",
-    "role": "Channel Presales Technical Architect - Minnesota",
-    "applyUrl": "https://go.landed.jobs/49l52bm",
-    "location": "Bloomington, MN · US",
-    "locations": [
-      "Bloomington, MN",
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "storage",
-      "whiteboarding",
-      "hands-on labs",
-      "proofs of concept (PoCs)"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$74.2B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:23a3c283-51ce-4390-9ed8-a4054443bb65",
-    "companyId": "company_75f3d63182bdeeb6c00395e656dadafc",
-    "company": "FIS",
-    "companyDomain": "fisglobal.com",
-    "role": "Pre-Sales Representative Lead, Solutions Architecture",
-    "applyUrl": "https://go.landed.jobs/jnqpxke",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "AWS",
-      "Azure",
-      "private cloud",
-      "SaaS",
-      "managed services"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$19.3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:37eab1e1-caac-4cf3-a7b6-9ba15caf9672",
-    "companyId": "company_8a0803fb8e3a80ce9027259a6a4703bc",
-    "company": "Mimecast",
-    "companyDomain": "mimecast.com",
-    "role": "Senior Principal Sales Engineer",
-    "applyUrl": "https://go.landed.jobs/9t2pq41",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Illinois, IL",
-      "Indiana, IN",
-      "Wisconsin, WI"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "sales_business_development",
-    "level": "senior",
-    "skills": [
-      "email security",
-      "anti-malware",
-      "archiving platforms",
-      "email migration processes",
-      "Exchange",
-      "Microsoft 365 migrations",
-      "Proofpoint",
-      "Barracuda",
-      "Microsoft Purview",
-      "Symantec Enterprise Vault",
-      "SaaS solutions"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.8B valuation",
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:92607aa7-388f-4ee9-b261-4a11d8005b29",
-    "companyId": "company_03866735a7929b513430a27473f5caa7",
-    "company": "Fiserv",
-    "companyDomain": "fiserv.com",
-    "role": "Senior Implementation Engineer",
-    "applyUrl": "https://go.landed.jobs/tzdbcc4",
-    "location": "Georgia +2",
-    "locations": [
-      "Georgia",
-      "King of Prussia, PA",
-      "Jacksonville, FL"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "API and software development",
-      "programming functional, imperative or object-oriented languages",
-      "Golang programming",
-      "Finxact Core APIs",
-      "integration points",
-      "technical consulting",
-      "client implementations",
-      "product feedback",
-      "client support",
-      "integration models",
-      "workflows"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$28.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:96369084-4a14-4488-a38e-c15815720b56",
-    "companyId": "company_e41a97aa99e291b0a2e219a8605cd8ca",
-    "company": "Genesys",
-    "companyDomain": "genesys.com",
-    "role": "Lead AI Solutions Architect",
-    "applyUrl": "https://go.landed.jobs/3f82t8i",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Indiana, PA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "mid",
-    "skills": [
-      "prompt engineering",
-      "LLM",
-      "NLP",
-      "Python",
-      "js"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$20B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:db082d0c-6164-442b-96f5-71222f13596f",
-    "companyId": "company_75f3d63182bdeeb6c00395e656dadafc",
-    "company": "FIS",
-    "companyDomain": "fisglobal.com",
-    "role": "Pre-Sales Solution Consultant, Network & Issuing Payments",
-    "applyUrl": "https://go.landed.jobs/1c2pbbw",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "Coast",
-      "Synthesia",
-      "NYCE",
-      "Payments Edge",
-      "Ethos"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$19.3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:e341619a-07c9-4cd5-93f0-d78a0657b6af",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Growth Solutions Engineer",
-    "applyUrl": "https://go.landed.jobs/3i719it",
-    "location": "Arlington, VA · McLean, VA",
-    "locations": [
-      "Arlington, VA",
-      "McLean, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:e19a3063-d6e4-45e5-91d5-fbb06c540756",
-    "companyId": "company_32169cd1e56760bd6a1bba003f374e19",
-    "company": "Insight",
-    "companyDomain": "insight.com",
-    "role": "Infrastructure Solutions Architect- Cisco & Juniper",
-    "applyUrl": "https://go.landed.jobs/9j943g4",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [],
-    "posted": "2026-10-03T00:03:27.333Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.9B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d834e770-0ea0-4f71-b930-7c0d13011a25",
-    "companyId": "company_b62e30e8b743399c39a38803c26347e3",
-    "company": "Dragos",
-    "companyDomain": "dragos.com",
-    "role": "Inside Solution Architect - Americas",
-    "applyUrl": "https://go.landed.jobs/1dd9wc7",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "entry",
-    "skills": [
-      "TCP/IP",
-      "OSI model",
-      "Dragos Platform"
-    ],
-    "posted": "2026-10-02T18:50:17.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.7B valuation",
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:a178ad7a-fa06-40db-929f-39eda8201f6f",
-    "companyId": "company_9f29ebebf84d42208c59e34721042bf9",
-    "company": "C3 AI",
-    "companyDomain": "c3.ai",
-    "role": "Technical Curriculum Developer",
-    "applyUrl": "https://go.landed.jobs/8ytys84",
-    "location": "Redwood City, CA",
-    "locations": [
-      "Redwood City, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "mid",
-    "skills": [
-      "Lucid",
-      "Camtasia",
-      "object-oriented programming",
-      "JavaScript frameworks such as React",
-      "HTML and CSS",
-      "Git",
-      "SQL and NoSQL databases",
-      "ETL techniques",
-      "machine learning concepts including regression, PCA, decision trees, and clustering",
-      "generative & agentic AI technologies, including LLMs, RAG, and AI agents"
-    ],
-    "posted": "2026-10-02T17:14:56.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:25a40e45-f324-40ff-876a-ee6bc287abe8",
-    "companyId": "company_a8cee5b62e3a1589b26647c81d6ab620",
-    "company": "Mixpanel",
-    "companyDomain": "mixpanel.com",
-    "role": "Senior Customer Engineer - LATAM",
-    "applyUrl": "https://go.landed.jobs/s7ub6z0",
-    "location": "🌐 Remote (US, Mexico)",
-    "locations": [
-      "US",
-      "Mexico"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "value engineering frameworks: translating customer pain into quantified business outcomes, building ROI calculators"
-    ],
-    "posted": "2026-10-02T01:19:23.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.1B valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:3672bda0-1209-4fa8-90bd-eb7a60f40b15",
-    "companyId": "company_5ab4686cb44bbd5a0d76c5536061a8c2",
-    "company": "Red Hat",
-    "companyDomain": "redhat.com",
-    "role": "Global Specialist Solution Architect - Lightwell",
-    "applyUrl": "https://go.landed.jobs/oph3mh1",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "technical sales support",
-      "Go-To-Market (GTM) strategies",
-      "dependency management, artifact signing, attestation, and pipeline enforcement",
-      "enterprise artifact repositories and internal mirrors",
-      "SLSA build integrity levels and the practical requirements of Level 3",
-      "technical presentations and leading business value sessions"
-    ],
-    "posted": "2026-10-02T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "TrueUp Remote 200"
-    ]
-  },
-  {
-    "dedupeKey": "job:4ff1eb34-57fe-4926-9e50-60f8dc26856e",
-    "companyId": "company_8eb094e1ad684814d89012e2355187e9",
-    "company": "Factset",
-    "companyDomain": "factset.com",
-    "role": "Lead Solutions Specialist, Real Time",
-    "applyUrl": "https://go.landed.jobs/krwl6e3",
-    "location": "New York City, NY · Chicago, IL",
-    "locations": [
-      "New York City, NY",
-      "Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "sales_business_development",
-    "level": "",
-    "skills": [
-      "Refinitiv",
-      "Bloomberg feeds",
-      "multicast",
-      "entitlement APIs",
-      "real-time distribution platforms",
-      "AWS",
-      "APIs",
-      "feed handlers",
-      "low-latency infrastructure",
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-10-02T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$9.4B valuation",
-      "Public"
     ]
   }
 ]
