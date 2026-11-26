@@ -5683,29 +5683,6 @@
     ]
   },
   {
-    "dedupeKey": "job:db92dd91-555a-4059-a783-285052d6c8f4",
-    "companyId": "company_f7681a4176c5efc97ba5c6e90eacf91d",
-    "company": "Micron",
-    "companyDomain": "micron.com",
-    "role": "IT Solution Architect - PLM & Master Data",
-    "applyUrl": "https://go.landed.jobs/icd1ldj",
-    "location": "Boise, ID",
-    "locations": [
-      "Boise, ID"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$930B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:924847eb-d8ea-4cd7-b7ac-38fbe58c1a52",
     "companyId": "company_b62e30e8b743399c39a38803c26347e3",
     "company": "Dragos",
@@ -7830,6 +7807,29 @@
     "companyTier": "B",
     "companyBadges": [
       "$25.6B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:e59009a2-1b34-474c-8e89-f77bfa26e5cf",
+    "companyId": "company_2ae835063866a2e53eb30ac824c9c80b",
+    "company": "Freshworks",
+    "companyDomain": "freshworks.com",
+    "role": "Lead - Solution Engineer",
+    "applyUrl": "https://go.landed.jobs/hiij0bd",
+    "location": "Boston, MA",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-18T14:58:02.636Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3.1B valuation",
       "Public"
     ]
   }
